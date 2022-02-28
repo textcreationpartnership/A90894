@@ -1,0 +1,729 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christ exalted above all creatures by God his Father or A sermon preached before the Right Honourable, the Parliament of the Commonwealth of England. (At their solemne fast, observed the last day of the last month called February 1649.) By Vavasor Povvell.</title>
+            <author>Powell, Vavasor, 1617-1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 86 KB of XML-encoded text transcribed from 50 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90894</idno>
+            <idno type="STC">Wing P3081</idno>
+            <idno type="STC">Thomason E1332_4</idno>
+            <idno type="STC">ESTC R209110</idno>
+            <idno type="EEBO-CITATION">99868010</idno>
+            <idno type="PROQUEST">99868010</idno>
+            <idno type="VID">169788</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90894)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169788)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 177:E1332[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christ exalted above all creatures by God his Father or A sermon preached before the Right Honourable, the Parliament of the Commonwealth of England. (At their solemne fast, observed the last day of the last month called February 1649.) By Vavasor Povvell.</title>
+                  <author>Powell, Vavasor, 1617-1670.</author>
+               </titleStmt>
+               <extent>[2], 96 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Ibbitson for Livewell Chapman at the Crown in Popes-head Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLI. [1651]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Intended to be appended to "Saving faith set forth in three dialogues" (Wing, 2nd ed., P3092), which has a separate dated title page and separated register and pagination.</note>
+                  <note>Annotation on Thomason copy of "Saving faith set forth in three dialogues", with which this is bound: "march 2.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fast-day sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169788:1"/>
+            <p>
+               <hi>CHRIST EXALTED</hi> above all Creatures BY GOD His Father. OR A Sermon Preached before the Right Ho<g ref="char:EOLhyphen"/>nourable, the <hi>Parliament</hi> of the Commonwealth of ENGLAND. (At their ſolemne Faſt, obſerved the laſt day of the laſt Month called <hi>February</hi> 1649.)</p>
+            <p>
+               <hi>By</hi> VAVASOR POVVELL.</p>
+            <q>
+               <bibl>Eſa. 2.11.17.</bibl>
+               <p>And the Lord alone ſhal be exalted in that day He hath on his veſture, and on his thigh, a name written, KING of KINGS, and LORD of LORDS, Rev. 19.16.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Robert Ibbitſon</hi> for <hi>Livewell Chapman</hi> at the Crown in Popes-head Alley. <hi>MDCLI.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:169788:2"/>
+            <pb n="1" facs="tcp:169788:2"/>
+            <head>Chriſt exalted above all Creatures by GOD his FATHER.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Hebrewes 2.7, 8.</hi>
+                  </bibl>
+                  <p>Thou madeſt him a little lower then the Angels, thou Crownedſt him with glory and honour, and did'ſt ſet him over the works of thy hands:</p>
+                  <p>Thou haſt put all things in ſubje<g ref="char:EOLhyphen"/>ction under his feet. For in that he put all in ſubjection under him, he left nothing that is not put under him. But now we ſee not yet all things put under him.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">B</seg>Efore I come to the words of my Text, I wil endeavor to ſhew you the main aime and ſcope of the Apoſtle in this Epiſtle,
+<pb n="2" facs="tcp:169788:3"/>which is to exhort and per<g ref="char:EOLhyphen"/>ſwade theſe <hi>Hebrewes</hi> to ſtand faſt,<note place="margin">The Scope of the Apoſtle in this E<g ref="char:EOLhyphen"/>piſtle is two fold.</note> and to perſiſt in the faith, and to dehort and diſſwade them from falling,<note place="margin">
+                  <hi>Firſt</hi> to per<g ref="char:EOLhyphen"/>ſwade them to perſeve<g ref="char:EOLhyphen"/>rance.</note> and apo<g ref="char:EOLhyphen"/>ſtatizing from the faith.</p>
+            <p>
+               <hi>Firſt,</hi> to perſwade them to perſeverance, and to make both the <hi>exhortation</hi> and <hi>dehor<g ref="char:EOLhyphen"/>tation</hi> more effectual, he urges ſeverall <hi>motives,</hi> &amp; preſcribes ſeverall <hi>meanes.</hi> The motives that he uſes to perſwade them are 4.</p>
+            <p n="1">1. The firſt <hi>Motive</hi> is from Chriſt.<note n="(a)" place="margin">Chap. 4.11.</note> 
+               <hi>Seing wee have ſuch an high-prieſt</hi> (ſaith he) <hi>that is paſſed in o the heavens, Jeſus the Sonne of God, let us hold faſt our profesſion.</hi> The Apoſtle to make this Argument more ta<g ref="char:EOLhyphen"/>king, he ſhews <hi>who</hi> and <hi>what</hi> Chriſt was, as that he was the<note n="b" place="margin">Chap. 1.2 5.8.</note> 
+               <hi>Son of God,</hi>
+               <note n="(c)" place="margin">Chap. 1.2</note> 
+               <hi>heir of all things</hi>
+               <note n="(d)" place="margin">C. 1.2.</note>
+               <pb n="3" facs="tcp:169788:3"/>
+               <hi>Creator of the World, the</hi>
+               <note n="(e)" place="margin">v. 3.</note> 
+               <hi>brightneſſe of Gods glory, the ex<g ref="char:EOLhyphen"/>preſſe image of his Perſon.</hi> The <hi>upholder of every creature, the</hi>
+               <note n="(f)" place="margin">C. 2.3.</note> 
+               <hi>Prophet</hi>
+               <note n="(g)" place="margin">C. 2.8.</note> 
+               <hi>Soveraign,</hi>
+               <note n="(h)" place="margin">C: 2.10.</note> 
+               <hi>Cap<g ref="char:EOLhyphen"/>tain,</hi>
+               <note n="(i)" place="margin">3.11.</note> 
+               <hi>Sanctifier,</hi>
+               <note n="(k)" place="margin">v. 9.</note> 
+               <hi>Saviour,</hi>
+               <note n="(l)" place="margin">v. 14.</note> 
+               <hi>Conquerour,</hi>
+               <note n="(m)" place="margin">C. 4.14.</note> 
+               <hi>Prieſt,</hi>
+               <note n="(n)" place="margin">C. 7.22.</note> 
+               <hi>ſurety,</hi> and<note n="(o)" place="margin">C. 8.1.</note> 
+               <hi>ſubſtance</hi> of all, This is the firſt encourage<g ref="char:EOLhyphen"/>ment: And it's a very great one.</p>
+            <p n="2">2. Another <hi>Motive</hi> and en<g ref="char:EOLhyphen"/>couragement that the Apoſtle uſes, is taken from the <hi>Goſpell</hi> and <hi>new Covenant.</hi> And this he preſſes by ſhewing the<note n="(p)" place="margin">Cha. 8.6.</note> 
+               <hi>Ex<g ref="char:EOLhyphen"/>cellency of it above the Law,</hi> and how it is <hi>eſtabliſhed upon better promiſes.</hi>
+            </p>
+            <p n="3">3. A third <hi>Motive</hi> is, the cloud of witneſſes, or the ma<g ref="char:EOLhyphen"/>ny Saints that did hold out, and goe on in the faith,<note place="margin">Chap. 11.</note> not<g ref="char:EOLhyphen"/>withſtanding their great <hi>tri<g ref="char:EOLhyphen"/>als,
+<pb n="4" facs="tcp:169788:4"/>temptations,</hi> and <hi>ſufferings</hi> in the world.</p>
+            <p n="4">4. The fourth and laſt <hi>Mo<g ref="char:EOLhyphen"/>tive</hi> is, the wages that they ſhould have, if they did con<g ref="char:EOLhyphen"/>tinue unto the end. And this is called a<note n="(q)" place="margin">Ch. 4.9.15.</note> 
+               <hi>Reſt,</hi>
+               <note n="(r)" place="margin">Ch. 10.35.</note> 
+               <hi>Recom<g ref="char:EOLhyphen"/>pence of reward,</hi> a<note n="(ſ)" place="margin">Ch. 11.16</note> 
+               <hi>city,</hi> a<note n="(t)" place="margin">Ch. 11.14</note> 
+               <hi>countrey,</hi> a<note n="(u)" place="margin">Ch. 12.28.</note> 
+               <hi>Kingdome.</hi>
+            </p>
+            <p>The meanes that hee pre<g ref="char:EOLhyphen"/>ſcribes to further them to at<g ref="char:EOLhyphen"/>tain thereunto, are foure, I will but name them.</p>
+            <list>
+               <item>1. <hi>Faith,</hi> Chap. 4. 2. &amp; 6. 12. &amp; 11.</item>
+               <item>2. <hi>Diligence,</hi> chap. 6. 11.</item>
+               <item>3. <hi>A Conſider at on</hi> of Chriſt, Chap. 12. 2. eſpecially of his ſufferings and glory.</item>
+               <item>4. <hi>Keeping communion with his Church and people,</hi> ch. 3. 13. &amp; 10. 25.</item>
+            </list>
+            <p>
+               <hi>Secondly,</hi> The Apoſtles
+<pb n="5" facs="tcp:169788:4"/>ſcope in the ſecond place, is to <hi>dehort,</hi> and <hi>diſſwade</hi> them from falling:<note place="margin">To diſſwade them from apoſtacy.</note> And herein hee ſhewes a three fold falling.</p>
+            <p>
+               <hi>Firſt,</hi> a falling (or coming ſhort) of grace; <hi>Take heede</hi> (ſaith hee) <hi>leſt any of you ſcem to come ſhort of the</hi>
+               <note n="w" place="margin">i. e. of the promiſe of grace.</note> 
+               <hi>promiſe.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> a falling from the profeſſion of faith, called <hi>a de<g ref="char:EOLhyphen"/>parting from God</hi>
+               <note n="x" place="margin">Heb. 3.12.</note> . (Note there may bee a<note n="y" place="margin">See <hi>chap. 6. 6.</hi> Or from their owne fled-faſtneſſe, as <hi>Peter</hi> ex<g ref="char:EOLhyphen"/>preſſes it, <hi>2 Pet. 3.17.</hi>
+               </note> falling from the profeſſion of grace, though not from the truth of grace; from the form, though not from the power; and from the doctrine, though not from the ſtate of grace.)</p>
+            <p>
+               <hi>Thirdly,</hi> a<note n="z" place="margin">Chap. 4.11.</note> falling into ſin: <hi>Take heed leſt any man fall after the ſame example of diſobedience.</hi> And that hee might affright &amp; prevent them from falling hee puts three things before them.</p>
+            <list>
+               <pb n="6" facs="tcp:169788:5"/>
+               <item>1 <hi>The example of the Jewes that were deſtroyed in the wilder<g ref="char:EOLhyphen"/>neſſe,</hi> Chap. 3. 17.</item>
+               <item>2 <hi>The greatneſſe of their ſinne if they did fall,</hi> Ch. 6. 6.</item>
+               <item>3 <hi>The nearneſſe and ſoreneſs of their puniſhment and miſery,</hi> Ch. 6. 8. &amp; 10. 26, 27, 28, 29, 31.</item>
+            </list>
+            <p>Obj. <hi>But they might ask, how ſhall we prevent this?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> He reſolves them in that, by exhorting them to take heed of unbelief, and the deceitfulneſſe of ſinne, <hi>Cha.</hi> 3. 12, 13. So then the ſumme of the whole Epiſtle is this;</p>
+            <p>
+               <hi>That thoſe that profeſſe Chriſt, and chriſtianity, muſt be carefull, and fearful leſt they come ſhort of grace &amp; glory, &amp; leſt they return through unbelief into impiety.</hi> But to come to the Text, which I have read unto you, which preſents it ſelfe in a three-fold conſideration.</p>
+            <list>
+               <pb n="7" facs="tcp:169788:5"/>
+               <item>1 <hi>To be divided.</hi>
+               </item>
+               <item>2 <hi>Explained.</hi>
+               </item>
+               <item>3 <hi>The main Poſitions or Do<g ref="char:EOLhyphen"/>ctrines therein to be ſtated.</hi>
+               </item>
+            </list>
+            <p>In the words you are to conſider three things.<note place="margin">The Text divided.</note>
+            </p>
+            <p n="1">1 <hi>By whom they were ſpoken:</hi> And that is either by <hi>David,</hi> (who ſpake them before pro<g ref="char:EOLhyphen"/>phetically) or elſe by <hi>Paul</hi> the<note n="(a)" place="margin">2 Pet. 3.15.</note> Author of this Epiſtle, who cites theſe words out of the 8 Pſalm.</p>
+            <p n="2">2 <hi>Of whom they are ſpoken:</hi> The parties therein are either extraordinary, or ordinary.</p>
+            <p>The extraordinary are God the Father, and Jeſus Chriſt.</p>
+            <p>The ordinary are<note n="(b)" place="margin">I call An<g ref="char:EOLhyphen"/>gells ordi<g ref="char:EOLhyphen"/>nary, in com<g ref="char:EOLhyphen"/>pariſon of God, and Chriſt. God the fa<g ref="char:EOLhyphen"/>ther hum<g ref="char:EOLhyphen"/>bling Chriſt. God the fa<g ref="char:EOLhyphen"/>ther exal<g ref="char:EOLhyphen"/>ting Chriſt.</note> An<g ref="char:EOLhyphen"/>gels and men.</p>
+            <p n="3">3 <hi>What is the ſubject-matter contained in the words.</hi> This is two-fold,</p>
+            <p n="1">1 The acts of the Father,
+<pb n="8" facs="tcp:169788:6"/>both in abaſing and exal<g ref="char:EOLhyphen"/>ting his Sonne. His <hi>act</hi> in abaſing him in theſe words <hi>Thou madeſt him a little low<g ref="char:EOLhyphen"/>er then the Angels.</hi> His <hi>act</hi> in exalting him in theſe words; <hi>Thou crownedſt him with glooy &amp; honour, &amp; didſt ſet him over the workes of thy hands: thou haſt put all things in ſubjection under him.</hi>
+            </p>
+            <p n="2">2 The two-fold ſtate of Chriſt, either his ſtate of <hi>hu<g ref="char:EOLhyphen"/>miliation,</hi> or his ſtate of <hi>exalta<g ref="char:EOLhyphen"/>tion.</hi>
+            </p>
+            <p>In his ſtate of Humiliation you are to conſider three things.</p>
+            <p n="1">1 <hi>The degree of his humiliati<g ref="char:EOLhyphen"/>ation,</hi> a little lower then the Angels <hi>(viz.)</hi> in nature, for he took (as I ſhewed before) mans fraile and fleſhly nature upon him.</p>
+            <p n="2">
+               <pb n="9" facs="tcp:169788:6"/>
+2 <hi>The time of his humiliation,</hi> and in this ſenſe alſo may thoſe words, <hi>a little lower then the Angels</hi> be underſtood, that is for a little time, or for a ſhort ſpace lower then they.</p>
+            <p n="3">3 <hi>The nature of his humiliati<g ref="char:EOLhyphen"/>on,</hi> which is called in the 9th verſ. his ſuffering.</p>
+            <p>
+               <hi>In this Exaltation there be alſo three particulars.</hi>
+            </p>
+            <list>
+               <item>1 His Coronation; <hi>Thou crownedſt him with glory and ho<g ref="char:EOLhyphen"/>nour.</hi>
+               </item>
+               <item>2 His Inſtitution: <hi>Thou didſt ſet him over the workes of thy hands.</hi>
+               </item>
+               <item>3 His Dominion, which is univerſall, <hi>Thou hast put all things in ſubjection under his feet.</hi>
+               </item>
+            </list>
+            <p>Note that Chriſts humilia<g ref="char:EOLhyphen"/>tion is ſet down <hi>comparatively,</hi> but his exaltation is ſet down <hi>ſuperlatively.</hi>
+            </p>
+            <p>
+               <pb n="10" facs="tcp:169788:7"/>
+Thus much for the diviſi<g ref="char:EOLhyphen"/>on of the words;<note place="margin">The Text explained.</note> now I come to the explanation of them, and therein conſider the na<g ref="char:EOLhyphen"/>ture of them, and the mean<g ref="char:EOLhyphen"/>ing of them.</p>
+            <p n="1">1 In their nature they are an anſwer to the queſtion in the ſixt verſe: <hi>What is man that thou art mindefull of him, or the ſonne of man that thou viſiteſt him.</hi>
+            </p>
+            <p n="2">2 The meaning of the words is either literall or my<g ref="char:EOLhyphen"/>ſticall: The literall meaning is this, that God did at firſt make man <hi>(Adam)</hi> a little low<g ref="char:EOLhyphen"/>er then the Angels,<note place="margin">The words in their li<g ref="char:EOLhyphen"/>terall ſenſe applyed to Adam.</note> in reſpect of nature and mortality; but hee crowned him with <hi>glory, honour, and dignity,</hi> and put all the Creatures under him, and made him as <hi>Soveraign</hi> &amp; <hi>Lord</hi> over them all, <hi>Gen.</hi> 1.27, 28.</p>
+            <p>
+               <pb n="11" facs="tcp:169788:7"/>
+The myſticall and ſpiritual meaning of the words is this;<note place="margin">The words in their ſpi<g ref="char:EOLhyphen"/>rituall ſenſe applyed to Chriſt.</note> That Jeſus Chriſt as <hi>man,</hi> or <hi>mediatour</hi> was made a little lower in reſpect of his hu<g ref="char:EOLhyphen"/>mane nature, and his ſtate on earth: and in a little while lower then the Angels; But yet God the Father <hi>did exalt him above all creatures, and gave him ſoveraignty and dominion o<g ref="char:EOLhyphen"/>ver the works of his hands, and did put all things under him, and under his feet.</hi>
+            </p>
+            <p>Q. <hi>But what doth that expreſ<g ref="char:EOLhyphen"/>ſion of putting all things under his feet ſignifie?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 1 It ſignifies a low ſub<g ref="char:EOLhyphen"/>jection, <hi>Luke</hi> 7.38.</p>
+            <p n="2">2 It ſignifies a through and perfect ſubjection, as when people are overcome &amp; made ſlaves, 1 <hi>Sam.</hi> 12.31. 2 <hi>Kings</hi> 9.33</p>
+            <p>
+               <pb n="12" facs="tcp:169788:8"/>
+Q. <hi>Why are all things ſaid to be put under Chriſts feet, and yet wee doe not ſee them put under his feet?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They are <hi>virtually</hi> and <hi>potentially</hi> put under his feete, but not actually and apparant<g ref="char:EOLhyphen"/>ly: that is, Chriſt is Lord and Soveraigne over all perſons and things already by right, though yet many doe oppoſe and withſtand him, and doe not ſubmit &amp; ſubjugate them<g ref="char:EOLhyphen"/>ſelves to him: As <hi>David</hi> was the true anointed King of <hi>Iſra<g ref="char:EOLhyphen"/>el,</hi> when yet hee was perſecu<g ref="char:EOLhyphen"/>ted, and forced to flye for his life.</p>
+            <p>Having thus opened the words, there ariſe theſe two main and ſpeciall <hi>Obſervations</hi> or <hi>Doctrines</hi> from them.</p>
+            <p>
+               <hi>That Chriſts way</hi> (as man) <hi>to exaltation,</hi>
+               <note place="margin">Doct. <hi>1.</hi>
+               </note> 
+               <hi>was by humiliation</hi>
+               <pb n="13" facs="tcp:169788:8"/>The Text holds forth this Doctrine clearly, that he was firſt made lower then the An<g ref="char:EOLhyphen"/>gels, then ſet over, or above them; ſo it is ſaid in the 110. <hi>Pſalm,</hi> the 7. verſ. <hi>That hee did drinke of the Brooke in the way</hi> (that is, he ſuffered death) <hi>be<g ref="char:EOLhyphen"/>fore he lifted up the head,</hi> or was exalted.</p>
+            <p>Q. <hi>Wherein did the humilia<g ref="char:EOLhyphen"/>tion of Chriſt conſiſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 1 In taking upon him the nature and forme of his own Creature <hi>man: Heebeing in the form of God</hi> (ſaith the A<g ref="char:EOLhyphen"/>poſtle) <hi>thought it no robbery to be equall with God: But made himſelfe of no reputation, and tooke upon him the form of a ſer<g ref="char:EOLhyphen"/>vant, and was made in the like<g ref="char:EOLhyphen"/>neſſe of men:</hi>
+               <note place="margin">Heb. 2.16.</note> And being <hi>found in the faſhion of a man, he hum<g ref="char:EOLhyphen"/>bled himſelf.</hi>
+            </p>
+            <p>
+               <pb n="14" facs="tcp:169788:9"/>
+It is further ſaid, <hi>He took not on him the nature of Angells, but he tooke on him the ſeede of Abra<g ref="char:EOLhyphen"/>ham,</hi> or the nature of the ſeed of <hi>Abraham,</hi> which was great humility, for the Son of God to become the ſonne of man: and for the eternal Majeſty to be cloathed with<note n="(d)" place="margin">Chriſts humane na<g ref="char:EOLhyphen"/>ture was ſubiect to hunger, thirſt, wea<g ref="char:EOLhyphen"/>riednes, &amp;c.</note> humane frailty and mortality.</p>
+            <p n="2">2 Chriſts humiliation did conſiſt in his ſubjection to mans miſerable condition, as <hi>to</hi>
+               <note n="(e)" place="margin">2 Cor. 5.21.</note> 
+               <hi>become ſinne, and a</hi>
+               <note n="(f)" place="margin">Gal. 3.13.</note> 
+               <hi>curſe</hi> for man-kind, to come under his own law, and to be judg<g ref="char:EOLhyphen"/>ed by his own juſtice, and lia<g ref="char:EOLhyphen"/>ble to his owne wrath. Oh what a low degree of humili<g ref="char:EOLhyphen"/>ty was this for Chriſt to yield to<note n="(g)" place="margin">Act. 8.33</note> a death, much more to the<note n="(h)" place="margin">Phil. 2.8.</note> death of the Croſſe, which was ſo <hi>ſhamefull, miſera<g ref="char:EOLhyphen"/>ble,</hi> and <hi>curſed.</hi>
+            </p>
+            <p n="3">
+               <pb n="15" facs="tcp:169788:9"/>
+3 Chriſts humiliation did conſiſt in his buriall, and in<note n="(i)" place="margin">Iſa. 53.9.</note> 
+               <hi>making his grave with the wicked.</hi> For the Lord of Hea<g ref="char:EOLhyphen"/>ven to be covered with his owne earth, and the God of glory to be coop'd up in a dark Cave, muſt needs declare his great humility or humili<g ref="char:EOLhyphen"/>ation.</p>
+            <p>Queſt. <hi>What was the nature of Chriſts humiliation, or what kinde of humiliation was it?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 1 <hi>It was a voluntary hu<g ref="char:EOLhyphen"/>miliation in reſpect of himſelfe:</hi> For no man did move or per<g ref="char:EOLhyphen"/>ſwade Chriſt hereunto: nei<g ref="char:EOLhyphen"/>ther did God his Father force him unto it; But Chriſt teſti<g ref="char:EOLhyphen"/>fies thus of himſelfe,<note n="(k)" place="margin">John 10.17, 18.</note> 
+               <hi>I lay downe my life; No man taketh it from me, but I lay it down of my ſelfe, I have power to lay it down.</hi> And in another place he ſaith
+<pb n="16" facs="tcp:169788:10"/>to his<note n="(l)" place="margin">Heb. 10.9</note> Father: <hi>I come to thy will O God.</hi>
+            </p>
+            <p n="2">2 <hi>Chriſts humiliation was a neceſſary humiliation in reſpect of his Creatures that were to be re<g ref="char:EOLhyphen"/>conciled, and ſaved</hi> For if hee had not undergone that ſtate of humiliation, the whole Creation had periſhed, and been loſt for ever; For as the Apoſtle<note n="m" place="margin">Heb. 8.3.</note> ſaid, <hi>It was of neceſ<g ref="char:EOLhyphen"/>ſity that Chriſt ſhould have ſome<g ref="char:EOLhyphen"/>what to offer:</hi> So may wee ſay, that it was of neceſſity that this man <hi>(Chriſt)</hi> did offer him<g ref="char:EOLhyphen"/>ſelf, for there was no other fit to doe it.</p>
+            <p n="3">3 It was a <hi>grievous humilia<g ref="char:EOLhyphen"/>tion,</hi> ſuch a humiliation that there was never knowne on earth the like either before or ſince. This did not only reach the body, but the ſoule of Chriſt, for hee cryed out in
+<pb n="17" facs="tcp:169788:10"/>his<note n="(n)" place="margin">Mat. 26.38. Mar. 14.34.</note> Agony; <hi>My ſoule is ex<g ref="char:EOLhyphen"/>ceeding ſorrowfull.</hi> There be 7 or 8 words in that 53. of <hi>Iſa.</hi> that ſets out this humiliation of his, As that he was <hi>deſpiſed, rejected, ſtriken, ſmitten, affli<g ref="char:EOLhyphen"/>cted, oppreſſed, bruiſed,</hi> and <hi>tor<g ref="char:EOLhyphen"/>mented,</hi> all diſtinct words, and aggravating his humiliation and ſufferings.</p>
+            <p n="4">4 Chriſts humiliation was an <hi>efficatious humiliation,</hi> even upon the inanimate creatures, for the Sunne was vail'd and ecclipſed, and covered, and hid his face; the whole hea<g ref="char:EOLhyphen"/>vens mourned, and put on ſackcloath (<hi>So that there was</hi>
+               <note n="o" place="margin">Luke 23.44.</note> 
+               <hi>darkneſſe over all the earth:</hi>) <hi>the earth did</hi>
+               <note n="p" place="margin">Mat. 28.51.</note> 
+               <hi>quake, and the rockes did rent:</hi> Theſe ſenfleſſe things did expreſſe a kind of ſympa<g ref="char:EOLhyphen"/>thy with their Creator in his great ſufferings.</p>
+            <p n="5">
+               <pb n="18" facs="tcp:169788:11"/>
+5 Chriſts humiliation was an <hi>advantagious humiliation,</hi> both to himſelfe, and to his Creatures. To himſelfe, that hee came to have a body and Generation, to honour and o<g ref="char:EOLhyphen"/>bey him. To his Creatures, a hat all of them have a benefit thereby; for his humiliation was their exaltation, his death their life, and his condemna<g ref="char:EOLhyphen"/>tion, their preſervation, and ſalvation.</p>
+            <p>Ob. <hi>But bad all the creatures ſome benefit by the humiliation &amp; ſufferings of Chriſt?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Yes, doubtleſs all the Creatures in earth, &amp; in hea<g ref="char:EOLhyphen"/>uen: For God is ſaid <hi>to</hi>
+               <note n="(q)" place="margin">Col. 1.20</note> 
+               <hi>re<g ref="char:EOLhyphen"/>concile all things unto himſelfe by him</hi> (i. e. Chriſt) <hi>whether they be things on earth, or things in Heaven.</hi> The Angels, they were ſtabliſhed &amp; confirmed
+<pb n="19" facs="tcp:169788:11"/>in their ſtate, and ſtations: They that ſhall be ſaved, were perfectly<note n="(r)" place="margin">2 Cor. 5.19. Rom. 5.9.</note> juſtified and re<g ref="char:EOLhyphen"/>conciled by his death.</p>
+            <p>Thoſe that periſh had their<note n="(ſ)" place="margin">Joh. 1.9. Luk. 9.56.</note> naturall lives, and the en<g ref="char:EOLhyphen"/>joyment of the Creatures here on earth by vertue of his death; alſo the<note n="(t)" place="margin">Rom. 8 1 19.20. 1 22.</note> 
+               <hi>whole creation</hi> (that now groaneth by reaſon of its bondage (cauſed by the ſinne of man) ſhall be reſtored unto a glorious liberty, which would never have beene, had not Chriſt ſuffered. Having thus briefly opened the firſt Doctrine, I will ſhew you one <hi>Uſe</hi> only that you are to make of it, and ſo I will come to the ſecond <hi>Obſervation.</hi>
+            </p>
+            <p>The <hi>Uſe</hi> is, to exhort you to make Chriſt your <hi>example</hi> &amp; <hi>pattern.</hi> Was he humbled be<g ref="char:EOLhyphen"/>fore he was exalted? did hee
+<pb n="20" facs="tcp:169788:12"/>ſtoop to goe through this low door to his honour? then learn of him this <hi>Leſſon</hi> of all other Leſſons; for hee would have you learn it. <hi>Learn of me</hi> (ſaith he) <hi>for I am meeke and lowly,</hi> or <hi>meeke and humb e,</hi> as the<note n="[v]" place="margin">Tranſlated humble in <hi>Jam. 4.6.</hi>
+               </note> Greek hath it. If you would be high, then begin low, as a builder that intends to build a great and ſtately <hi>Edifice,</hi> hee doth firſt digge the foundati<g ref="char:EOLhyphen"/>on low. <hi>Solomon</hi>
+               <note n="(u)" place="margin">Prov. 15.33.</note> ſaith, that <hi>before honour, is humility.</hi> And in another place, that<note n="(w)" place="margin">Pro. 22.4.</note> 
+               <hi>ho<g ref="char:EOLhyphen"/>nour is the reward of humlity.</hi> Thoſe that would looke after honour, let them come by it as <hi>Mordecai</hi> came by his honour; he firſt puts on on ſack-cloath, and faſted, and mourned, and then waited at <hi>Ahaſhuerus</hi> gate till he was called to honour; he did not ſue nor ſeeke for it,
+<pb n="21" facs="tcp:169788:12"/>but made it his buſineſſe to honour God, and to help the poore people of God: and ſo hee was content to take his turn, and to come to honour, after God was honoured, and when his people were advan<g ref="char:EOLhyphen"/>ced. There is an excellent<note n="(x)" place="margin">Iſa. 37.31.</note> promiſe made to the remnant of <hi>Judah</hi> (which I ſhall allude to) <hi>That they ſhould take roote downeward, and bring fruit up<g ref="char:EOLhyphen"/>ward:</hi> As thoſe trees, whoſe boughes and branches grow and ſpread moſt, doe take deepeſt root, and ſpread in the earth moſt: So thoſe that are moſt exalted and advanced, they are firſt humbled and af<g ref="char:EOLhyphen"/>flicted; for where humility is not before honour, there will bee a humbling and abaſing after honour. I beſeech you (now you are come together
+<pb n="22" facs="tcp:169788:13"/>to humble your ſouls) labour to be humbled; for this is one maine end why wee now are met together, let's take heede then leſt wee depart with un<g ref="char:EOLhyphen"/>humbled hearts. And that you may be humbled, looke upon Jeſus Chriſt, for there are 2. ſpeciall ſights of Chriſt that do tend much to humble men.</p>
+            <p>The firſt is the ſight of his miſery, or the ſight of him in his anſwerable, low, and ſuf<g ref="char:EOLhyphen"/>fering condition.<note n="(y)" place="margin">Rev. 1.7.</note> 
+               <hi>They ſhall ſee him whom they have pierced:</hi> And what followes? <hi>All the kindreds of the earth ſhall wail be<g ref="char:EOLhyphen"/>cauſe of him.</hi>
+            </p>
+            <p>The 2d ſight is the ſight of his glory, (or of him in his glory.) When <hi>Iſaiah</hi> had ſeen this, he cries out<note n="(z)" place="margin">Iſa. 6.5.</note> 
+               <hi>Woe is me, for I have ſten the King the Lord
+<pb n="23" facs="tcp:169788:13"/>of hoſts:</hi> And this ſight was a ſight of him in his<note n="(a)" place="margin">Verſ. 3.</note> glory, as appeares in the third verſe. Theſe two ſights of Chriſt my Text repreſents to you, <hi>viz.</hi> a ſight of him in his <hi>hu<g ref="char:EOLhyphen"/>miliation,</hi> and a ſight of his <hi>ex<g ref="char:EOLhyphen"/>altation.</hi> But I come to the 2d Doctrine.</p>
+            <p>Doct. 2. <hi>God the Father hath exalted his Sonne Chriſt above all creatures, and ha h put, and will put all perſons and things under him.</hi> This Doctrine flows na<g ref="char:EOLhyphen"/>turally from the words, and this God foretold by his Pro<g ref="char:EOLhyphen"/>phet in the Old Teſtament, ſaying; <hi>Behold my</hi>
+               <note n="b" place="margin">i.e. <hi>Chriſt</hi> ſee Iſa. 42.1. &amp; 53.11</note> 
+               <hi>ſervant ſhall deale prudently, he ſhall be exalt<g ref="char:EOLhyphen"/>ed, and</hi>
+               <note n="c" place="margin">Iſa. 52.13.</note> 
+               <hi>extolled, and be very high.</hi> This alſo the Apoſtle confirms, <hi>That Chriſt is</hi>
+               <note n="d" place="margin">Col. 1.17, 18.</note> 
+               <hi>before all things, and that among all hee hath the pre-eminence.</hi> And in
+<pb n="24" facs="tcp:169788:14"/>another<note n="(e)" place="margin">1 Cor. 15 27.</note> place, that he (<hi>i. e.</hi> God) <hi>hath put all things under him.</hi>
+            </p>
+            <p>But for the further proof of this, I will come to Particu<g ref="char:EOLhyphen"/>lars, and there be three parti<g ref="char:EOLhyphen"/>culars in the Doctrine to be proved.</p>
+            <list>
+               <item>1 That God the Father hath exalted his Sonne Chriſt above all creatures.</item>
+               <item>2 That hee hath put all perſons and things already under him inſtitutively &amp; virtually, &amp;c.</item>
+               <item>3 That hee will put all perſons and things under him really and actually.</item>
+            </list>
+            <p>For the firſt; that God the Father hath exalted his Sonne Chriſt above all creatures, appears, as by ſeverall Scrip<g ref="char:EOLhyphen"/>tures, ſo by two undeniable reaſons.</p>
+            <p n="1">
+               <pb n="25" facs="tcp:169788:14"/>
+1 <hi>In that hee hath put him to ſit upon his owne right hand,</hi>
+               <note place="margin">
+                  <hi>2 Reaſon</hi>-To prove that God hath exalt<g ref="char:EOLhyphen"/>ed Chriſt a<g ref="char:EOLhyphen"/>bove all creatures.</note> which is the higheſt <hi>dignity, power, ſoveraignty,</hi> and <hi>glory</hi> that he could give, and which he hath not given to any crea<g ref="char:EOLhyphen"/>ture beſides: and this exalta<g ref="char:EOLhyphen"/>tion Chriſt did not aſſume of himſelfe; but the Father ſaid unto him,<note n="f" place="margin">Pſ. 110.1.</note> 
+               <hi>Sit thou on my right hand untill I make thine enemies thy foot-ſtoole.</hi> Yea, note this, that the Scriptures mention this his being on Gods right hand obove<note n="g" place="margin">Pſ. 110.1 Mat. 22.44 &amp; 26.64. Mar. 14.62 Lu. 16.19. &amp; 20.42. &amp; 22.69. Act 2.34. &amp; 7.55, 56. Heb. 1.13. &amp; 8.1. &amp; 12 2. &amp; 10.12. Rom. 8 34. Col. 3.1.</note> twelve times, as ſometimes <hi>on the right hand of his power,</hi> and ſometimes <hi>on the right hand of the throne of God.</hi> When <hi>Bathſheba, Solomons</hi> mo<g ref="char:EOLhyphen"/>ther came to him, hee had no way to ſhew his reſpect more to her, then by<note n="h" place="margin">1 Kings 2.10.</note> cauſing a ſeat to be ſet for her, <hi>that ſhee might ſit on his right hand.</hi> And
+<pb n="26" facs="tcp:169788:15"/>amongſt us, you know that to ſet one upon our right hand, is to prefer him, and to have the right hand of fellowſhip, <hi>was an</hi>
+               <note n="i" place="margin">Gal. 1.9.</note> 
+               <hi>honour among the Apo<g ref="char:EOLhyphen"/>ſtles.</hi>
+            </p>
+            <p>Obj. <hi>But are none copartners with Chriſt in this honour, and doth hee alone ſit on Gods right hand?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> There is none but hee that ſits upon the right hand of the Father. It is true in deed that the <hi>Queen,</hi> or the <hi>Church</hi> is ſaid to<note n="k" place="margin">Pſal. 45.9.</note> ſit on the <hi>Kings</hi> (or on Chriſts) right hand: alſo hereafter the Saints ſhall bee upon his right hand. But this prerogative is peculiar to Jeſus Chriſt alone, who is not only ſaid to ſit upon his Fa<g ref="char:EOLhyphen"/>thers right hand, but is alſo<note n="l" place="margin">Exod. 15.16.</note> called <hi>the right hand of God, and the</hi>
+               <note n="m" place="margin">Pſal. 80.17.</note> 
+               <hi>man of his right hand.</hi>
+            </p>
+            <p n="2">
+               <pb n="27" facs="tcp:169788:15"/>
+2 A ſecond <hi>Reaſon</hi> to prove that God hath exalted his Son Chriſt above all Creatures,<note place="margin">Reaſ. <hi>2</hi>
+               </note> is, Becauſe he hath appointed the chiefeſt Creatures to wor<g ref="char:EOLhyphen"/>ſhip him and ſerve him; as the Angels, God commanded them to worſhip him<note n="n" place="margin">Heb. 1.6. Rev. 5.14. &amp; 19.4.</note> ; <hi>Let all the Angels of God worſhip him.</hi> And we find that theſe glori<g ref="char:EOLhyphen"/>ous (and tranſcendently emi<g ref="char:EOLhyphen"/>nent) Creatures did worſhip, and doe worſhip him, yea and fall<note n="p" place="margin">Rev. 11.7.</note> downe on their faces (which is the loweſt ſigne of humility) to worſhip him.</p>
+            <p>
+               <hi>Secondly:</hi> The ſecond thing to be proved is, <hi>That God the Father hath put all perſons and things under Chriſt.</hi> This ap<g ref="char:EOLhyphen"/>pears from Chriſt, being the head of all perſons &amp; things: <hi>I would have you know</hi> (ſaith the Apoſtle) <hi>that the</hi>
+               <note n="q" place="margin">1 Cor. 11.3.</note> 
+               <hi>head of every
+<pb n="28" facs="tcp:169788:16"/>man is Chriſt.</hi> And in another place, <hi>He</hi> (<hi>i. e.</hi> God) <hi>hath made him to be the head over all things to his</hi>
+               <note n="r" place="margin">Eph. 1.22</note> 
+               <hi>Church:</hi> So Chriſt is of<g ref="char:EOLhyphen"/>ten called the<note n="ſ" place="margin">Mat. 21.42. Act. 4.11. 1 Pet. 2.7.</note> Head of the Corner. But further, that ex<g ref="char:EOLhyphen"/>preſſion (which is more then once mentioned) <hi>of putting all things under Chriſts feet,</hi> carries much weight<note n="t" place="margin">1 Cor. 15 27. Pſa. 8.6. Eph. 1.22. Heb. 2.8.</note> with it, and ſhews an abſolute, low, and through objection.</p>
+            <p>Obj. <hi>But you may object (as it ſeemes by my Text, that the A<g ref="char:EOLhyphen"/>poſtle met with ſuch an Obje<g ref="char:EOLhyphen"/>ction) well, ſpeak what you wil of the putting of all perſons &amp; things under him; yet wee ſee no ſuch thing, but rather contrary.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Though we doe not yet ſee all things put un<g ref="char:EOLhyphen"/>der him, yet the word ſaith ſo, and it will certainly be ſo, which I prove two wayes-</p>
+            <p n="1">
+               <pb n="29" facs="tcp:169788:16"/>
+1 Becauſe the Father hath promiſed it<note n="u" place="margin">See Pſal. 2.9. &amp; 89.23. &amp; 110.1. Iſa. 2.4. &amp; 11.2. &amp; 32.1. Luk. 1.32, 33.</note> , and doe you think that hee will breake his promiſe with him? Oh no, <hi>his promiſes faile not,</hi> he keepes promiſe with all men, much more with his Sonne. God gives all his children, yea the youngeſt their <hi>Legacies,</hi> &amp; <hi>por<g ref="char:EOLhyphen"/>tions,</hi> and will hee detain from his Sonne and Heire what hee hath promiſed him, and entai<g ref="char:EOLhyphen"/>led upon him; eſpecially ſee<g ref="char:EOLhyphen"/>ing Chriſt performed ſo well with him.</p>
+            <p n="2">2 Chriſt lives in expectati<g ref="char:EOLhyphen"/>on thereof; <hi>From (u) henceforth expecting till his enemies be made his foot-ſtool.</hi>
+               <note n="x" place="margin">Heb. 10.13. i. e. <hi>From the time of his aſcenſi<g ref="char:EOLhyphen"/>on,</hi> Act. 2.35. Pro. 23.18</note> Sure Chriſts ex<g ref="char:EOLhyphen"/>pectation will not be fruſtra<g ref="char:EOLhyphen"/>ted: I may ſay as <hi>Solomon</hi> ſaid, <hi>Surely there is an end,</hi> and thine (Chriſts) <hi>expectation ſhall not be cut off.</hi> There is an <hi>untill,</hi> or
+<pb n="30" facs="tcp:169788:17"/>a <hi>time</hi> that God the Father hath ſet to the reign of his E<g ref="char:EOLhyphen"/>nemies: and when that time is expired, he and his Kingdom muſt be exalted, as afterwards I ſhall ſhew.</p>
+            <p>Thus having confirmed the particulars in the <hi>Doctrine,</hi> I come next to the Reaſons, why God did exalt Chriſt a<g ref="char:EOLhyphen"/>bove all Creatures, I will name four, and no more.</p>
+            <p>
+               <hi>Becauſe hee had an hereditary right to it,</hi>
+               <note place="margin">Reaſ. <hi>1.</hi>
+               </note> as the Apoſtle ſaith, <hi>He by inheritance obtained a</hi>
+               <note n="(w)" place="margin">Heb. 1.4.</note> 
+               <hi>more excellent name then they.</hi> He being Sonne and Heir, his Father could grant him no leſſe then a <hi>pre-emption</hi> &amp; <hi>pre-eminence</hi> above his fellowes. As under the law the firſt born had greater priviledges then any of the other chil<g ref="char:EOLhyphen"/>dren, and ſhall not Chriſt
+<pb n="31" facs="tcp:169788:17"/>then, who is the firſt-born of every Creature, have their priviledge?</p>
+            <p>
+               <hi>Becauſe there was no fitter per<g ref="char:EOLhyphen"/>ſon to rule then he:</hi>
+               <note place="margin">Reaſ. <hi>2.</hi>
+               </note> As under the Law,<note place="margin">
+                  <hi>Lev. 16.21</hi> which typed out Chriſt.</note> 
+               <hi>the Lord would have the Scape-goat to be ſent into the Wil<g ref="char:EOLhyphen"/>derneſs by the</hi> hand of a fit man: ſo God would have the fitteſt man to be above all his Crea<g ref="char:EOLhyphen"/>tures; and as amongſt men, the greateſt, <hi>wiſeſt,</hi> skilfulleſt, and <hi>ableſt</hi> are choſen and exal<g ref="char:EOLhyphen"/>ted over the people: ſo Chriſt being eminently qualified a<g ref="char:EOLhyphen"/>bove all others, his Father ſet him up above all his crea<g ref="char:EOLhyphen"/>tures, as <hi>David</hi> made his Son <hi>Solomon</hi> King over <hi>Iſrael.</hi>
+               <note place="margin">1 Chron. 23.1. <hi>Reaſ.</hi> 3.</note>
+            </p>
+            <p>
+               <hi>Becauſe Chriſt had exalted him on earth,</hi>
+               <note n="(a)" place="margin">Joh. 13.31.</note> Now (ſaid Chriſt) <hi>is the Sonne of man glo<g ref="char:EOLhyphen"/>rified, &amp; God is glorified in him:</hi> If God be glorified in him,
+<pb n="32" facs="tcp:169788:18"/>
+               <hi>God ſhall alſo glorifie him in him<g ref="char:EOLhyphen"/>ſelfe, and ſhall ſtrait way glorifie him.</hi> And this was Chriſts plea unto his<note n="(b)" place="margin">Joh. 17.4.</note> Father: Fa<g ref="char:EOLhyphen"/>ther <hi>I have glorified thee on earth,</hi> I have <hi>finiſhed the worke which thou gaveſt me to doe. And now O Father glorifie thou mee,</hi> &amp;c. It was but juſt that the Father ſhould glorifie and ex<g ref="char:EOLhyphen"/>alt him, he having firſt glori<g ref="char:EOLhyphen"/>fied and exalted his Father: And hee could do no leſſe by way of retaliation, if his Son had been but a meer ſtranger to him.</p>
+            <p>
+               <hi>Becauſe Chriſt by his ſufferings and merits obtained it;</hi>
+               <note place="margin">Reaſ. <hi>4.</hi>
+               </note> For hee <hi>that would drink of ſuch a Brooke in the way, deſerv d to lift up</hi> his head. <hi>David</hi> when hee had ſlain the <hi>Philiſtine,</hi> and ſaved the Army of <hi>Iſrael,</hi> did well deſerve to command them: So
+<pb n="33" facs="tcp:169788:18"/>this our Spirituall <hi>David,</hi> Je<g ref="char:EOLhyphen"/>ſus Chriſt, having conquered all his enemies, and redeemed all his people by his death, he might juſtly claime that pri<g ref="char:EOLhyphen"/>viledge <hi>above,</hi> and <hi>over</hi> them all. Thus having proved the <hi>Doctrine</hi> both integrally and particularly by Scriptures, and Reaſons; I now come to the explanation, thereof, and for that end ſhall propound and reſolve theſe three Queſtions:</p>
+            <p>Firſt, <hi>Over what Creatures hath God exalted and put up his Sonne?</hi>
+            </p>
+            <p>Secondly, <hi>Wherein, or in what particulars is Jeſus Chriſt exalted above thoſe creatures?</hi>
+            </p>
+            <p>Thirdly, <hi>How, and by what meanes doth God bring all Crea<g ref="char:EOLhyphen"/>tures under his Son?</hi>
+            </p>
+            <p>To returne to the firſt of theſe.</p>
+            <p n="1">
+               <pb n="34" facs="tcp:169788:19"/>
+1 Queſt. <hi>Over what Creatures hath God exalted and put up his Sonne?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Over all Creatures in Heaven and Earth, and un<g ref="char:EOLhyphen"/>der the Earth, <hi>Philip.</hi> 2.10. <hi>Mat.</hi> 28.19. but particularly he hath power,
+<list>
+                  <item>Over all <hi>Angels,</hi>
+                  </item>
+                  <item>Over all <hi>Men, and</hi>
+                  </item>
+                  <item>Over all <hi>Over all things.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1 <hi>Over all Angels,</hi> as 1. The good Angels, they are called his<note n="(c)" place="margin">Heb. 1.17.14.</note> miniſtring Spirits, for they<note n="(d)" place="margin">Zev. 5, 8, 9.</note> alwayes attend and waite upon him to doe his ſer<g ref="char:EOLhyphen"/>vice. 2. The evil Angels (or the Devils) they are alſo in ſubjecti<g ref="char:EOLhyphen"/>on to, and under the power of Chriſt; for though Chriſt did once pray to his Father, <hi>to</hi> (e) <hi>deliver his darling from the po<g ref="char:EOLhyphen"/>wer of the Dogge</hi> (or the De<g ref="char:EOLhyphen"/>vel)
+<pb n="35" facs="tcp:169788:19"/>yet we finde that at other times Chriſt rebuked theſe e<g ref="char:EOLhyphen"/>vill ſpirits,<note place="margin">Pſal. 22.20</note> and they were a<g ref="char:EOLhyphen"/>fraid of him, leaſt he ſhould come to torment them before the time; which expreſſed his Soveraignty over them.</p>
+            <p n="2">2 <hi>He is over all men;</hi> high and low, good and bad, they are all his Servants, as he teſti<g ref="char:EOLhyphen"/>fies in the eight of the <hi>Pro<g ref="char:EOLhyphen"/>verbs,</hi> ſaying, <hi>By me Kings reigne, and Princes decree Ju<g ref="char:EOLhyphen"/>ſtice; By me Princes and No<g ref="char:EOLhyphen"/>bles rule, yea alſo all the Judges of the earth.</hi> He alſo is called, King of Kings, and Lord of Lords; and in <hi>Daniel</hi> 10.21.<note place="margin">Dan. 10.21</note> 
+               <hi>Michael</hi> the Prince of <hi>Iſrael;</hi> yea all the Patriarcks, Pro<g ref="char:EOLhyphen"/>phets, Kings, Apoſtles, Evan<g ref="char:EOLhyphen"/>geliſts, Magiſtrates, and Mini<g ref="char:EOLhyphen"/>ſters, yea all people of all Na<g ref="char:EOLhyphen"/>tions, Tongues, Kindreds, and
+<pb n="36" facs="tcp:169788:20"/>degrees, in all Ages were un<g ref="char:EOLhyphen"/>der, and will be under his power.</p>
+            <p n="3">3 <hi>He is above all things,</hi> ac<g ref="char:EOLhyphen"/>cording to that expreſſion in the firſt of the <hi>Epheſians,</hi>
+               <note place="margin">Above all Lawes and Ordinan<g ref="char:EOLhyphen"/>ces, above all workes and won<g ref="char:EOLhyphen"/>ders, above all powers, and privi<g ref="char:EOLhyphen"/>ledges, a<g ref="char:EOLhyphen"/>bove all gifts and graces, and above all earthly &amp; ſpirituall excellen<g ref="char:EOLhyphen"/>cies and glory.</note> 22. verſe. <hi>He</hi> (i. e. God) <hi>hath put all things under his</hi> (i. e. <hi>Chriſt his</hi>) <hi>feet.</hi> So in the 1 <hi>Cor.</hi> 15.28. you have the ſame words. Thus much in anſwer to the firſt queſtion.</p>
+            <p n="2">2. Queſt. <hi>Wherein is Chriſt ex<g ref="char:EOLhyphen"/>alted above all Creatures?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Firſt, Doubtleſſe in all things he hath the prehe<g ref="char:EOLhyphen"/>minence, but more particular<g ref="char:EOLhyphen"/>ly in regard of his Divine Na<g ref="char:EOLhyphen"/>ture; I may I hope ſafely thus expreſſe, although it is true that the Divine Nature doth not properly admit of degrees, yet nevertheleſſe the Divine Nature of Chriſt (to ſpeake
+<pb n="37" facs="tcp:169788:20"/>with reverence) was much vailed, clouded,<note place="margin">As a peece of Gold covered with earth or the Sun darkned by a cloud, or a can<g ref="char:EOLhyphen"/>dle hid under a buſhel,</note> and ecclipſed by his humain Nature, that few did account him God till after his Reſurrection, by which <hi>he was</hi>
+               <note n="(f)" place="margin">Rom. 1.4.</note> 
+               <hi>declared to be the Sonne of God with power.</hi> And ſo much our Saviours owne words (in the ſeventeenth of <hi>John,</hi> verſ. 5.) imply.</p>
+            <p>Obj. <hi>But you will ſay, The Di<g ref="char:EOLhyphen"/>vine Nature was never humbled, therefore it was ſtill exalted a<g ref="char:EOLhyphen"/>like?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> It is true, the God<g ref="char:EOLhyphen"/>head of Chriſt did not, nor could not ſuffer, nor be humb<g ref="char:EOLhyphen"/>led, yet he that was God ſuf<g ref="char:EOLhyphen"/>fered, as thoſe words in <hi>Acts</hi> 20.28. import. But note this, when I ſay, Chriſt was exalted above all in reſpect of his Di<g ref="char:EOLhyphen"/>vine Nature; I meane, that none had that <hi>fulneſſe</hi> and <hi>mea<g ref="char:EOLhyphen"/>ſure</hi>
+               <pb n="38" facs="tcp:169788:21"/>of Divinity, (or the Di<g ref="char:EOLhyphen"/>vine Nature) as Chriſt had.</p>
+            <p>Secondly, <hi>Jeſus Chriſt was exalted in his humane Nature above all Creatures.</hi>
+            </p>
+            <p n="1">1 In that Chriſts humane Nature <hi>was created, and begot<g ref="char:EOLhyphen"/>ten in a ſupernaturall way,</hi> even by the over-ſhadowing of the Holy Ghoſt, <hi>Luke</hi> 1.35. or as <hi>David</hi> ſpeakes in his perſon,<note place="margin">Pſal. 139.140.</note> 
+               <hi>Wonderfully was I made.</hi>
+            </p>
+            <p n="2">2 He was exalted in his hu<g ref="char:EOLhyphen"/>mane Nature above all others, <hi>in regard his humane Nature</hi> was without ſinne; as the A<g ref="char:EOLhyphen"/>poſtle ſpeakes<note n="(g)" place="margin">1 Pet. 2.22.</note> 
+               <hi>He did no ſinne, neither was guile found in his mouth.</hi>
+            </p>
+            <p n="3">3 Jeſus Chriſt his humane Nature (or his Body) <hi>ſaw no corruption,</hi> Act. 2.27. Though he was in the Grave, yet the Grave could neither putrifie
+<pb n="39" facs="tcp:169788:21"/>him, nor prevaile to keep him within it.</p>
+            <p n="4">4 The humane Nature of Chriſt is exalted above all <hi>in reſpect of place,</hi> to wit, upon the right hand of God, as I have ſhewed before.</p>
+            <p>Obj. <hi>Is Chriſts humane nature (or the very body that he had on earth) now in heaven?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Yes ſure, <hi>he that</hi>
+               <note n="(h)" place="margin">Eph. 4.8,</note> 
+               <hi>deſcended is the ſame alſo that aſcended up far above all</hi> hea<g ref="char:EOLhyphen"/>vens: and the ſame Jeſus which roſe from the dead, and that appeared to his Diſciples after his Reſurrection, <hi>was</hi>
+               <note n="(i)" place="margin">Act 1.8,9.</note> 
+               <hi>taken up before them into heaven,</hi> and that ſame Jeſus will hereafter (in that very perſon and na<g ref="char:EOLhyphen"/>ture)<note n="(k)" place="margin">Jud. <hi>v.</hi> 14. Rev. 1.7.</note> come from hea<g ref="char:EOLhyphen"/>ven.</p>
+            <p>Fiftly, and laſtly, Chriſt is exhalted in his humain nature
+<pb n="30" facs="tcp:169788:22"/>above all, becauſe in that na<g ref="char:EOLhyphen"/>ture he will judge the world, according to the ſaying of the Apoſtle, <hi>He wil judge the world in righteouſneſſe by that man</hi> i.e. Chriſt) <hi>whom he hath ordained;</hi> this is the ſecond way wherein Chriſt is exalted above all creatures.</p>
+            <p>Thirdly, Jeſus Chriſt was <hi>exal<g ref="char:EOLhyphen"/>ted in his name above al creatures,</hi> as the Apoſtle ſpeaks, God his father hath <hi>given him a name,</hi>
+               <note place="margin">Phil. 2.9.</note> 
+               <hi>above all other names, that at the name of Jeſus Chriſt every knee ſhould bow.</hi> Now whether by name be underſtood the Pow<g ref="char:EOLhyphen"/>er, Majeſty, and Authority of Chriſt; or thoſe names by which he is called in the Scrip<g ref="char:EOLhyphen"/>ture, as <hi>Jehovah</hi> and <hi>Immanuel,</hi> yet this is moſt true that there is not attributed to any crea<g ref="char:EOLhyphen"/>ture, what is attributed to him,
+<pb n="31" facs="tcp:169788:22"/>in reſpect of his name.</p>
+            <p>Object. <hi>But you will ſay, is not the Church called</hi> Jehovah, <hi>ſhe ſhal be called,</hi> Jehovah-tzidke<g ref="char:EOLhyphen"/>nu, <hi>the Lord our Righteouſneſse,</hi> Ier. 33.16.</p>
+            <p>
+               <hi>Anſw.</hi> Its true, that with re<g ref="char:EOLhyphen"/>lation to Chriſt ſhe is called <hi>Jehovah</hi> as in <hi>Ezek.</hi> 48.35. Je<g ref="char:EOLhyphen"/>hovah-ſhammah <hi>the Lord is there,</hi> Yet that Text in <hi>Jeremiah</hi> is not rightly tranſlated. For it is in the Hebrew,<note place="margin">Jer. 33.16. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>He the Lord</hi> Jehovah, that is, our <hi>Righ<g ref="char:EOLhyphen"/>teous one,</hi> or <hi>Righteouſneſſe</hi> ſhall call her, that is, the Church ſhould be called by Chriſt her Righteouſneſſe, And though many bee called Gods in the Scripture (as the Apoſtle ſpeakes) yet no one is called <hi>Immanuel</hi> but Chriſt one<g ref="char:EOLhyphen"/>ly.<note place="margin">Eſa. 7.14. Mat. 1.23.</note>
+            </p>
+            <p>Fourthly, Jeſus Chriſt was
+<pb n="32" facs="tcp:169788:23"/>exalted above all creatures, in his <hi>Office, as he was Mediator; For there was</hi> (and is) <hi>but one Me<g ref="char:EOLhyphen"/>diator between God, and Man, the man Chriſt Jeſus,</hi> 1 Tim. 2.6. Tis true, there were other ty<g ref="char:EOLhyphen"/>picall Mediatours, as <hi>Moſes,</hi> &amp;c. but no true and reall Me<g ref="char:EOLhyphen"/>diator, ſave Jeſus Chriſt. In Chriſts Mediatourſhip conſi<g ref="char:EOLhyphen"/>der,</p>
+            <p n="1">1 <hi>That none was fit to be a Mediator or Saviour but he,</hi> for all creatures had need of a Mediatour and Saviour, and therefore could not bee their owne <hi>Mediatours,</hi> and <hi>Savi<g ref="char:EOLhyphen"/>ours,</hi>
+            </p>
+            <p n="2">2 <hi>None could, or can, forgive ſins but he,</hi> for he only is exal<g ref="char:EOLhyphen"/>ted to give repentance and for<g ref="char:EOLhyphen"/>giveneſſe of ſinnes, <hi>Act.</hi> 5.31.</p>
+            <p>Object. <hi>But had not the A<g ref="char:EOLhyphen"/>poſtles
+<pb n="39" facs="tcp:169788:23"/>of Chriſt, and have not the Miniſters of the Goſpell power to forgive ſins, For Chriſt ſaith,</hi> whatſoever ſinnes ye forgive, ſhal be forgiven, &amp;c. <hi>Joh.</hi> 20.23.</p>
+            <p>
+               <hi>Anſw.</hi> The Apoſtles and Mi<g ref="char:EOLhyphen"/>niſters had and have power to forgive ſins, but then it is de<g ref="char:EOLhyphen"/>claratively, upon their belee<g ref="char:EOLhyphen"/>ving in Chriſt, and no other wayes. For as the Jewes ſaid who can forgive ſins but God?</p>
+            <p n="3">3 None can give Lawes to the Church but Chriſt alone, and therefore he is called the<note n="(a)" place="margin">Eſa. 33.22. Jam. 4.12.</note> 
+               <hi>Law-giver,</hi> and<note n="(b)" place="margin">Epheſ. 4.15. &amp; 5.23. Col. 1.18</note> 
+               <hi>head of the Church.</hi> Note this, that no perſon or perſons, <hi>Civil</hi> or <hi>Eccle<g ref="char:EOLhyphen"/>ſiaſticall,</hi> were ever called <hi>Head,</hi> or <hi>Heads</hi> of the Church but Chriſt. It is true, the Magi<g ref="char:EOLhyphen"/>ſtrates are ſometimes called, the <hi>Heads</hi> of the People, but
+<pb n="44" facs="tcp:169788:24"/>not of the Church; but un<g ref="char:EOLhyphen"/>der the Law Eccleſiaſticall perſons were not ſo much as called Heads of the people, nay none of the Tribe of <hi>Levi</hi> were ever choſen, or called Heads; how much then doe men in our dayes imagine, and aſſume power to themſelves over Chriſts Church (more then is given them by Chriſt) ſo that they thinke they may enjoyne and impoſe what Laws they pleaſe upon Chriſts Church and people. But let ſuch looke to themſelves.</p>
+            <p n="4">4 None can diſcerne and know the thoughts of the Children of men but Chriſt, for he only is the<note n="(c)" place="margin">Heb. 4.12.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the <hi>Diſcerner, Tryer,</hi> and <hi>knower</hi> of the <hi>thoughts,</hi> and <hi>imaginati<g ref="char:EOLhyphen"/>ons</hi> of men, and he whoſe<note n="(d)" place="margin">Rev. 1.14.</note> eyes are as a flame of fire,
+<pb n="45" facs="tcp:169788:24"/>ſees through and through the hearts, reines, and inward parts of men.</p>
+            <p n="5">5 None have power<note n="(e)" place="margin">See Gen. 18.25 2 Tim. 4.8. Jam. 4.9.</note> to Judge men for ever but Chriſt, the Pope pretends he can ſend ſome to Heaven, ſome to Hel, and ſome between both; yet a day will come when hee poore man (or rather beaſt) muſt, and ſhall have a ſentence paſt upon his owne ſoule, and then where is he, and thoſe he deceived? But ſo much for the exaltation of Chriſt as Mediator.</p>
+            <p>Fifthly, <hi>Jeſus Chriſt is exal<g ref="char:EOLhyphen"/>ted in his Generation above all o<g ref="char:EOLhyphen"/>thers, for who ſaith the Pro<g ref="char:EOLhyphen"/>phet ſhall declare his Generation?</hi> That is, though Chriſt be kil<g ref="char:EOLhyphen"/>led, yet who ſhall, or can be able to tell the number of his Progeny, and Poſterity, and
+<pb n="46" facs="tcp:169788:25"/>the Branches that ſhall grow out of this Stem, and Root?</p>
+            <p>Note that there is a dou<g ref="char:EOLhyphen"/>ble Generation belonging to Chriſt, and a double booke wherein this two-fold Gene<g ref="char:EOLhyphen"/>neration is recorded.</p>
+            <p n="1">1 <hi>His naturall Generation,</hi> ſhewing from whom he came according to the fleſh; This <hi>Matthew</hi> calls,<note place="margin">Mat. 1.1.</note> The Booke of the Generation of Jeſus Chriſt, &amp;c. According to his Fleſhly Generation he was of the Bloud Royall, and next to the Crowne (if he had claimed it) as ſome conceive, and why ſhould <hi>Herod</hi> command him whilſt he was but yet a Childe to be killed? but that he fea<g ref="char:EOLhyphen"/>red he (that was next Heire) would have put him beſides the Crowne?</p>
+            <p n="2">2 <hi>His Spirituall Generation,</hi>
+               <pb n="47" facs="tcp:169788:25"/>or his <hi>Off-ſpringe</hi> who are his bleſſed Seed, called,<note place="margin">1 Per. 2.61 Rev, 13, 8. &amp; 21.27.</note> A royall Generation, a Generation of Kings, Princes, and Prieſts, whoſe names are written in the Lambs book of life.</p>
+            <p>Sixtly and laſtly, Jeſus Chriſt is exalted above all in Dominion and Government, and of this his Dominion, Go<g ref="char:EOLhyphen"/>vernment, and Kingdome, the Scriptures doe amply teſtifie, and clearly ſpeake, <hi>Eſa.</hi> 6.9. &amp; 22.21. For as <hi>Ioſeph</hi> (who was a Type of him) was Gover<g ref="char:EOLhyphen"/>nour in all the Land of <hi>Ae<g ref="char:EOLhyphen"/>gypt;</hi> ſo Chriſt <hi>governes all the Nations of the earth,</hi>
+               <note place="margin">Pſal. 105.22.</note> Pſal. 67.4. &amp; 22.28. And as God ſent <hi>Ioſeph</hi> into <hi>Aegypt</hi> to teach the Princes of <hi>Aegypt,</hi> ſo hath God ſent his Sonne Jeſus into the world, to teach and rule the Princes of the earth. <hi>Be
+<pb n="48" facs="tcp:169788:26"/>wiſe therefore ye Princes, and o<g ref="char:EOLhyphen"/>bedient to him ye Iudges of the earth.</hi> You may more particu<g ref="char:EOLhyphen"/>larly conſider this Kingdome of Chriſt, as being divided into three parts:</p>
+            <list>
+               <item>A Coeleſtiall,</item>
+               <item>A Spirituall, and</item>
+               <item>A Terreſtriall.</item>
+            </list>
+            <p n="1">1 For the Coeleſtiall or hea<g ref="char:EOLhyphen"/>venly part, I deſire you to turne to two ſpeciall places which ſpeake thereof,<note place="margin">2 Tim. 4.18. Luk. 22.16</note> many more I might name, but I intend not to inſiſt upon that part, yet be not unmindfull that there is a Crowne, and a Kingdome pre<g ref="char:EOLhyphen"/>pared <hi>for thoſe that love Chriſt,</hi>
+               <note place="margin">Jam. 1.12, &amp; 2.5.</note> 
+               <hi>and that waite for his appear<g ref="char:EOLhyphen"/>ance.</hi>
+            </p>
+            <p n="2">2 For the Spirituall part of his Kingdome, which concerns us to know here, obſerve
+<pb n="49" facs="tcp:169788:26"/>theſe ſoure things.</p>
+            <p n="1">1 <hi>The word of the Kingdome,</hi> which is ſometimes called the <hi>Goſpel,</hi>
+               <note place="margin">Mar. 4.23. Mat. 13.11</note> and ſometimes the <hi>My<g ref="char:EOLhyphen"/>ſteries of the Kingdome of Hea<g ref="char:EOLhyphen"/>ven;</hi> the Goſpel is the Law by which Chriſt doth rule and governe the Subjects of his Kingdome.</p>
+            <p n="2">2 There be the Keepers of the Kingdome, which is <hi>Skil,</hi>
+               <note place="margin">Mat. 16.19</note> and <hi>power</hi> to open the Goſpel, and to open and ſhut the doore of the Church of Chriſt accor<g ref="char:EOLhyphen"/>ding to his will; the keyes that were committed to <hi>Peter</hi> was nothing elſe (I ſuppoſe) but a Cal, and power as the firſt Mi<g ref="char:EOLhyphen"/>niſter, to preach the Goſpel unto the Gentiles.</p>
+            <p n="3">3 <hi>There be the Subjects of this Kingdome,</hi>
+               <note place="margin">Rom. 1.7. 1 Cor. 1.7 Act, 11.26</note> and thoſe are cal<g ref="char:EOLhyphen"/>led in the New Teſtament <hi>Be<g ref="char:EOLhyphen"/>leevers, Saints, Chriſtians, the
+<pb n="50" facs="tcp:169788:27"/>redeemed and called of God,</hi>
+               <note place="margin">1 Cor. 1.24. Rom. 16.16.</note> or <hi>Churches</hi> of Saints, all which words imply that they muſt be in Chriſt, and have grace, who are members and ſub<g ref="char:EOLhyphen"/>jects of this Kingdome, and not all the riffe-raffe (as we ſpeake) of the world.</p>
+            <p n="4">4 <hi>There be Officers belonging to this</hi> ſpirituall part of the Kingdome, which the King of Glory hath left, and appoin<g ref="char:EOLhyphen"/>ted; as Apoſtles, Evangeliſts, Prophets, Paſtors, Teachers, and the like, <hi>Epheſ.</hi> 4.11.</p>
+            <p n="5">5 And laſtly, there is the ſeate of this ſpirituall King<g ref="char:EOLhyphen"/>dome, the ſubjects of this Kingdome are ſeated and pla<g ref="char:EOLhyphen"/>ced in the heart of their Sove<g ref="char:EOLhyphen"/>raigne, and Saviour Jeſus Chriſt, <hi>Cant.</hi> 8.6. As <hi>Paul</hi> ſaid of the <hi>Philippians,</hi>
+               <note place="margin">Phil. 1.7.</note> that he had them in his heart, ſo may
+<pb n="51" facs="tcp:169788:27"/>Chriſt ſay much more of his Members, that he hath them in his heart, and that he hath borne them from Eternity. This Kingdome (eſpecially the Word of it) is alſo ſeated in the hearts of Beleevers, as Chriſt ſaid, <hi>The Kingdome of God is within you,</hi> Luk. 17.21. So the Apoſtle ſaith, <hi>The King<g ref="char:EOLhyphen"/>dome of God was in the</hi> Romans <hi>in righteouſneſſe, peace,</hi>
+               <note place="margin">Rom. 14.17.</note> 
+               <hi>and joy of the Holy Ghoſt.</hi> Thus having ended the ſecond part of Chriſts Kingdome, I now come to the laſt part, which is, Chriſt reigning on Earth, and over the World; there are ſe<g ref="char:EOLhyphen"/>verall things diſputable here<g ref="char:EOLhyphen"/>in; as,</p>
+            <p n="1">1 Whether Chriſt ſhall come and reigne in his owne Perſon and humane Nature upon the earth; and</p>
+            <p n="2">
+               <pb n="52" facs="tcp:169788:28"/>
+2 If he doth reigne, who ſhall reigne with him? whe<g ref="char:EOLhyphen"/>ther all the Saints, or whether thoſe only that ſuffered under Antichriſt? or whether the people of the <hi>Iewes</hi> only? But in regard theſe queſtions are controverted, we'l come to thoſe things which are with<g ref="char:EOLhyphen"/>out controverſie concerning this point, and they are four.</p>
+            <p n="1">1 <hi>That Ieſus Chriſt hath a right to all the Kingdoms of the world,</hi> as it is ſaid in the 1 <hi>Cor.</hi> 10, chapter, <hi>The earth is the Lords, and the fulneſſe thereof;</hi> and in <hi>Pſal.</hi> 72.8. <hi>He ſhall have domi<g ref="char:EOLhyphen"/>nion from ſea to ſea,</hi> &amp;c. One ſpeciall place beſides that (I conceive) is applicable to Chriſt, it is in the 21. of <hi>Eze<g ref="char:EOLhyphen"/>kiel</hi> 27. verſe, <hi>I will overturne, overturne, overturne it, and it ſhall be no more untill he come,
+<pb n="53" facs="tcp:169788:28"/>whoſe right it is, and I will give it him.</hi> Here are three over<g ref="char:EOLhyphen"/>turnings anſwerable to the three parts of the City in the <hi>Revelation,</hi> and all theſe over<g ref="char:EOLhyphen"/>turnings are to bring Chriſt the right Heire to his poſſeſ<g ref="char:EOLhyphen"/>ſion.</p>
+            <p n="2">2 The Lord hath power to diſpoſe of the Kingdomes of the earth to whomſoever he pleaſeth, as it is ſaid in the 4<hi rend="sup">th</hi>. of <hi>Daniel,</hi> the 17. verſ. <hi>That the moſt high is in the Kingdome of men, and he giveth it to whom<g ref="char:EOLhyphen"/>ſoever he will.</hi> So in the fifth of <hi>Daniel,</hi> 21. and in <hi>Pſal.</hi> 75.7. <hi>God is the Iudge, he putteth down one, and ſetteth up another;</hi> And who can (or dare) ſay to the Lord, What doſt thou?</p>
+            <p n="3">3 Jeſus Chriſt accounts no men ſo worthy, and ſo fit to rule his Kingdome (under
+<pb n="54" facs="tcp:169788:29"/>him) as his Saints, therefore he makes promiſe thereof to them. <hi>And the Kingdome, and Dominion, and the greatneſſe of the Kingdome under the whole heaven,</hi>
+               <note place="margin">Dan. 7.27.</note> 
+               <hi>ſhall be given unto the Saints of the most high, &amp;c.</hi> and know you not ſaith the Apo<g ref="char:EOLhyphen"/>ſtle <hi>Paul,</hi> that <hi>the Saints ſhall judge the world?</hi> And Chriſt ſaid unto his Apoſtles (though poore Fiſhermen) <hi>Ye ſhall ſit upon twelve Thrones,</hi>
+               <note n="i" place="margin">Cor. 6. i, 2</note> 
+               <hi>judging the twelve Tribes of Iſrael.</hi> You know among men, if a man be exalted to Honour, Office, or place, he will preferre his owne friends and Servants, e<g ref="char:EOLhyphen"/>ſpecially if they be fit men, and can manage thoſe places; even ſo doth Chriſt, who findes places for his people, and fits them for thoſe places; and in<g ref="char:EOLhyphen"/>deed none are ſo fit to manage
+<pb n="55" facs="tcp:169788:29"/>any worke as the Saints, for they only doe their worke in a right manner, and to a right end.</p>
+            <p>Fourthly and laſtly, the Scriptures declare, that Chriſt ſhall reigne in the world, and in the Nations of the world. To inſtance in a few, in the ſe<g ref="char:EOLhyphen"/>cond of <hi>Daniel,</hi> the 44. verſe, <hi>The God of heaven will ſet up a Kingdome which ſhal never be de<g ref="char:EOLhyphen"/>ſtroyed, which ſhal ſtand for ever;</hi> And this Kingdome which is called, <hi>the ſtone hewne out of the Mountaine, ſhal deſtroy and breake in peeces all the remaining powers of the other foure Monar<g ref="char:EOLhyphen"/>chies.</hi> So in the 11. of the <hi>Re<g ref="char:EOLhyphen"/>velation,</hi> 15. verſ. <hi>The King<g ref="char:EOLhyphen"/>domes of this world ſhal become the Kingdomes of the Lord, and of his Chriſt.</hi> And elſe-where it is ſaid, <hi>His Dominion ſhal be
+<pb n="56" facs="tcp:169788:30"/>from Sea to Sea, and that he ſhould have the utmoſt parts of the earth for his poſſeſsion.</hi> And in <hi>Eſaiah</hi> the ſecond, and <hi>Micha</hi> the fourth, there are promiſes that his Kingdome (called the Mountaine of the Lord) <hi>ſhould be ſet upon the top of the Mountaines.</hi> Surely theſe and many more Scriptures have ſomewhat of ſpeciall concern<g ref="char:EOLhyphen"/>ment in them, that relate to this Kingdome of Chriſt.</p>
+            <p>Obj. <hi>But you will ſay, Ieſus Chriſt himſelfe when he was on earth, denyed and reſuſed an earthly Kingdome,</hi> Joh. 18.36. for he ſaith, <hi>My Kingdome is not of this world.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Tis true, that Chriſt did then deny and refuſe an earthly Kingdom, for then was his comming in his humiliati<g ref="char:EOLhyphen"/>on, rather then in his exalta<g ref="char:EOLhyphen"/>tion;
+<pb n="57" facs="tcp:169788:30"/>and to purchaſe a King<g ref="char:EOLhyphen"/>dome, rather then to poſſeſſe it. The time when Chriſt ſpake thoſe words was at his departure out of the world,<note place="margin">It is more then pro<g ref="char:EOLhyphen"/>bable that Chriſt will come in great po<g ref="char:EOLhyphen"/>wer and glory, as (the Jewes did expect him) to call and redeeme them, Mar. 24.30. Luk. 21.2 Mark 13.26. Zach. 12.10. Rev. 1.7.</note> but he told the Jewes elſe<g ref="char:EOLhyphen"/>where, and at another time; <hi>That they ſhould ſee him, and ſay, Bleſſed is he that commeth in the name of the Lord,</hi> Luk. 13.35. Let us take heed that we doe not over-looke Chriſts exalted ſtate on earth, as the Iewes did formerly his ſtate of Humilia<g ref="char:EOLhyphen"/>tion; but I doe obſerve, that many people in theſe dayes doe ſtumble at three things.</p>
+            <p n="1">1 <hi>That the Saints ſhould rule and governe the world;</hi> but is there not all the reaſon in the world they ſhould, ſeeing that the world is upheld for their ſakes; alſo that they have been <hi>Sufferers</hi> in times
+<pb n="58" facs="tcp:169788:31"/>paſt, and are Conquerers of ſome parts of it at preſent, and doth not Chriſt promiſe, that he that <hi>over commeth, and keepeth his works unto the end, to him will be give power over the Nations,</hi> Rev. 2.26.</p>
+            <p>Object. But ſome will ſay, <hi>The weapons of the Saints anciently were</hi> faith, teares, prayers, and patience, <hi>and they did then rather chooſe afflictions, and perſecutions, then make reſiſtance, and ſeek to reign over others.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Its true, that faith, teares, prayers, <hi>&amp;c.</hi> are the beſt weapons, and with theſe the Saints doe cheifly warre. But yet it is as true, that the Saints may lawfully fight, for wee read that they are to have <hi>a two edged ſword in their hands,</hi>
+               <note place="margin">Pſa. 149.6</note> 
+               <hi>as well as the high prayſes of God in their mouthes,</hi> and in
+<pb n="59" facs="tcp:169788:31"/>another place we read, <hi>that they that lead into captivity</hi> (mean<g ref="char:EOLhyphen"/>ing the Roman party) <hi>ſhould be led into captivity themſelves.</hi> But you will ſay by whom?<note place="margin">Rev. 13.10</note> Sure<g ref="char:EOLhyphen"/>ly, by the Army of the Lamb, who are called, and choſen,<note place="margin">Rev. 17.14</note> and faithfull. There is a Generati<g ref="char:EOLhyphen"/>on of new, &amp; upſtart Courtiers that would beg the Saints for fooles, and deale with them as <hi>Ziba</hi> did with <hi>Mephiboſheth;</hi> and by falſe wayes, get what appertaines unto them out of their hands: Or as a cunning fellow that would come to a rich man, and tell him it is hard for him to go to heaven with all that riches, and this he doth, that he may diſpoſſeſſe him of his riches, that ſo he himſelfe may have them: but I hope the Saints are more wiſe then to be cheated out of their
+<pb n="60" facs="tcp:169788:32"/>rights and priviledges by a ge<g ref="char:EOLhyphen"/>neration of men, who would have Saints to be their ſlaves, who are themſelves ſlaves to Satan.</p>
+            <p n="2">2 Some ſtumble at preſent proceedings, and at the deal<g ref="char:EOLhyphen"/>ings of God in theſe dayes. Saying we have neither pre<g ref="char:EOLhyphen"/>cept nor example for what we do. I will not ſpeake particu<g ref="char:EOLhyphen"/>larly and largely to this point, yet I would ſtirre up and pro<g ref="char:EOLhyphen"/>voke people to look upon the hand of God, which is ſo evi<g ref="char:EOLhyphen"/>dently and eminently exalted &amp; lifted up, though as the Pro<g ref="char:EOLhyphen"/>phet ſaid of ſome, <hi>They will not ſee, but yet they ſhalſee, and ſhal be aſhamed.</hi> But let us peruſe a few Scriptures (inſtead of many that might be produced) that juſtifie this to be no other then the hand of God, in the 110 Pſal. 5.
+<pb n="61" facs="tcp:169788:32"/>verſe, <hi>The Lord at thy right hand ſhall ſtrike through Kings in the day of his wrath.</hi>
+               <note place="margin">So it is in the He<g ref="char:EOLhyphen"/>brew <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in gentibus</note> So in the 149. Pſal. 7 and 8. verſes, there judgement is ſaid to be executed in the Nation, <hi>and thein Kings to bee bound with chaines, and their Nobles with fetters of iron,</hi> So in Rev. 19.18. <hi>The foules of the aire were called to eate the fleſh of</hi> Kings, of Cap<g ref="char:EOLhyphen"/>taines, and of mighty men, &amp;c. So in <hi>Iſay</hi> it is propheſied, <hi>That Kings ſhould ſhut their mouthes, and bow before Chriſt and his Church.</hi> What, are all theſe Scriptures to be underſtood allegorically? No ſure, it is more then probable, that in the ſame manner as Chriſts great and wicked enemies oppoſed him and deſtroyed his people, they ſhall be oppoſed and de<g ref="char:EOLhyphen"/>ſtroyed.</p>
+            <p n="3">
+               <pb n="62" facs="tcp:169788:33"/>
+3 Many ſtumble at this, That meane men are exalted, and the great and noble ones laid aſide, and not made uſe of. But if the Scriptures be ſear<g ref="char:EOLhyphen"/>ched and conſidered, this will not appeare any new or ſtrange thing. In the 21 of <hi>Ezek.</hi> 26. <hi>Thus ſaith the Lord God, remove the diadem, and take off the Crowne; this ſhall not be the ſame, exalt him that is low: and abaſe him that is high.</hi> So in Dan. 4.17. <hi>The moſt high</hi> (ſaid Nebuckhad<g ref="char:EOLhyphen"/>nezar) <hi>ruleth in the King dome of men, and giveth it to whom<g ref="char:EOLhyphen"/>ſoever he will, and ſetteth up over it the baſeſt of men.</hi> Alſo in Pſa. 113.7, 8. God is ſaid <hi>to raiſe up the poore out of the duſt, and to lift the needy out of the dunghill, that hee may ſet them up with Princes.</hi> Is this ſo ſtrange unto men? what have we not ex<g ref="char:EOLhyphen"/>amples
+<pb n="63" facs="tcp:169788:33"/>enough to wipe off this aſperſion? What were <hi>Mo<g ref="char:EOLhyphen"/>ſes, Joſuah, Gideon, Jephtha, Saul, David,</hi> and many others? were they not mean men, and not tramed up or educated ei<g ref="char:EOLhyphen"/>ther for Civil or Military im<g ref="char:EOLhyphen"/>ployment? who would have thought a Threſher as <hi>Gideon</hi> was, a Keeper of his fathers Aſ<g ref="char:EOLhyphen"/>ſes as <hi>Saul</hi> was, or a poor Sheep<g ref="char:EOLhyphen"/>heard as <hi>David</hi> was? ſhould be ſit to lead &amp; rule ſuch a people and Nation as Iſrael was. Let us not then looke ſo much upon men, <hi>for the Lord ſeeth not as man,</hi>
+               <note place="margin">1 Sam. 1. 6, 7.</note> 
+               <hi>for man looketh on the outward ap<g ref="char:EOLhyphen"/>pearance, but the Lord looketh on the heart.</hi> And the reaſon why God exalts them that are low, is, that he may glorifie him<g ref="char:EOLhyphen"/>ſelfe the more. Therefore be not vexed at Gods dealings, for he ſaith, he will <hi>come upon
+<pb n="64" facs="tcp:169788:34"/>Princes as upon morter, and as the potter treadeth the clay,</hi> Eſa. 41.25.</p>
+            <p>I come to the laſt Queſtion which is, <hi>How God doth bring all creatures under his Son?</hi>
+            </p>
+            <p n="1">1 By the rod of his mouth, or the Goſpell, which is the power of God,<note place="margin">Pſa. 110.2. Rom. 1.16 Rev. 1.16.</note> and the ſword of God, by which the Lord doth bring downe many to the obe<g ref="char:EOLhyphen"/>dience of Chriſt, as the Apoſtle ſpeakes, 2 <hi>Cor.</hi> 10.4, 5.</p>
+            <p n="2">2 By the rod of his hand,<note place="margin">Pſa. 29.</note> or as the Prophet <hi>David</hi> calls it an <hi>iron rod, by which he will break, and daſh in peices his Ene<g ref="char:EOLhyphen"/>mys, like a potters veſſel.</hi> They that will not bow by the ſweet and gracious words of Chriſt, muſt be broken by the heavy blows, and ſtrokes of Chriſt, and where the kindneſſe and goodneſſe of Chriſt will not
+<pb n="65" facs="tcp:169788:34"/>take place, there his wrath and indignation muſt and will take place. Thus having cleared the Doctrine, let me begge your patience a little to apply it.</p>
+            <p n="1">1 <hi>Vſe.</hi> The firſt uſe then is, an uſe of Exhortation, and that is two-fold; the firſt exhortation is unto ſinners, (and it is of great concerne<g ref="char:EOLhyphen"/>ment to you) To ſubmit unto the Lord Jeſus;<note place="margin">Firſt, by kiſſing Chriſt, is meant o<g ref="char:EOLhyphen"/>beying him, ſo the word is taken, 1 Sam. 10.1.</note> 
+               <hi>Kiſſe the Son leaſt he be angry, and ſo ye periſh from the right way,</hi> Pſal. 2.12. there are many of you here this day that ſtand in neede of Chriſt, who yet have not ſtooped, and bowed to him; I beſeech you for to incite your hearts to conſider theſe mo<g ref="char:EOLhyphen"/>tives.</p>
+            <p n="1">1 Becauſe Chriſt hath con<g ref="char:EOLhyphen"/>quered the whole World, and it can be no leſſe then Rebel<g ref="char:EOLhyphen"/>lion,
+<pb n="66" facs="tcp:169788:35"/>and Treaſon in you to re<g ref="char:EOLhyphen"/>ſiſt or diſobey him.</p>
+            <p n="2">2 He is your right and law<g ref="char:EOLhyphen"/>full King, and will you like the Iewes refuſe your King?</p>
+            <p n="3">3 Becauſe Chriſts yoke is very eaſie, as he ſaith himſelfe for encouragement unto men;<note place="margin">Mat. 11.29, 30.</note> 
+               <hi>Take my yoke for it is eaſie, and my burden, for it is light.</hi>
+            </p>
+            <p n="4">4 If you ſubmit unto Chriſt, he will free you from all ty<g ref="char:EOLhyphen"/>ranny and ſlavery you are now under; he will deliver you from Sathan, and ſinne, who now rule over you.</p>
+            <p n="5">5 Becauſe Chriſt will have no Succeſſor to call you to an account for your diſobedience, and loyalty to him, <hi>for he ſhall abide a King for ever,</hi> and you ſhall never change your Lord, for he is the laſt Monarch, and of his Kingdome there ſhall be no end.</p>
+            <p n="6">
+               <pb n="67" facs="tcp:169788:35"/>
+6 Becauſe that all the love and mercy which the Lord hath revealed to you, and be<g ref="char:EOLhyphen"/>ſtowed on you, they are to bring you to obedience unto him.</p>
+            <p>O conſider! what mercies God hath heaped upon you, he hath given you Houſes, Lands, Children, Servants, Honours, pleaſure, and dominion, and he hath made your enemies to ſtoop to you; O now what doth the Lord expect from you? but that you ſhould ſub<g ref="char:EOLhyphen"/>mit unto his Son. The ſecond exhortation is unto you all.</p>
+            <p>Secondly, If God hath ex<g ref="char:EOLhyphen"/>alted Chriſt, then doe you al<g ref="char:EOLhyphen"/>ſo exalt him. There is not a more bleſſed work to be done, (now the worke of Redemp<g ref="char:EOLhyphen"/>tion is done) then this. You ſhould exalt Chriſt.</p>
+            <p n="1">
+               <pb n="68" facs="tcp:169788:36"/>
+1 Becauſe God the Father hath exalted him; what, will you not be like unto God?<note place="margin">Eſt. 6.6.</note> 
+               <hi>What ſhall be done to the man whom the King delighteth to ho<g ref="char:EOLhyphen"/>nour</hi> (ſaid <hi>Ahaſhuerus</hi> to <hi>Ha<g ref="char:EOLhyphen"/>man</hi>) If a man knew what ſuch a one deſerved, and though <hi>Mordecay</hi> was his enemy, yet he muſt have a hand in advan<g ref="char:EOLhyphen"/>cing him. Oh! but then what ſhall become of the man whom the King of Heaven de<g ref="char:EOLhyphen"/>lights to honour, and to ex<g ref="char:EOLhyphen"/>alt?</p>
+            <p n="2">2 It is the worke of Angels day by day to exalt Chriſt; and if thoſe Creatures who are a thouſand times more glo<g ref="char:EOLhyphen"/>rious, excellent, and perfect then we are, fal downe, and caſt their Crownes before the Throne,<note place="margin">Rev 5.12. &amp; 7.12.</note> ſaying, <hi>Worthy is the Lambe that was ſlaine to receive
+<pb n="69" facs="tcp:169788:36"/>power, and riches, and wiſdome, and ſtrength, and honour, and glory, and bleſsing;</hi> how much more willing, and ready ſhould we be, for Chriſt hath done more for us men, then for them.</p>
+            <p n="3">3 You have been the cauſe of humbling Ieſus Chriſt, for by, and for your tranſgreſſi<g ref="char:EOLhyphen"/>ons, he was brought from his Throne (and the glory which he enjoyed with his Father) to ſuffer reproach, ſhame, ſor<g ref="char:EOLhyphen"/>row, and the curſedſt death that was, and will you not be a meanes (what in you lyes) to exalt, and honour him whom you have ſo much abaſed.</p>
+            <p n="4">4 You ſhould exalt Chriſt becauſe that is the way for you to be exalted; know this aſſuredly, that that which humbled and abaſed your Sa<g ref="char:EOLhyphen"/>viour,
+<pb n="70" facs="tcp:169788:37"/>will never exalt and ho<g ref="char:EOLhyphen"/>nour you. Sinne was that (though but yours, and impu<g ref="char:EOLhyphen"/>ted to him) which abaſed him, and can you conceive that it will exalt you? Oh no! <hi>Righ<g ref="char:EOLhyphen"/>teouſneſse exalteth a Nation</hi> (ſaith <hi>Solomon</hi>) and God promiſed, <hi>That whoſoever would honour him, ſhould be honoured by him,</hi> 1 Sam. 2.30.</p>
+            <p n="2">2 <hi>Uſe.</hi> The ſecond uſe is, an uſe of examination, to try whether we honour Chriſt, yea or no, and whether we ex<g ref="char:EOLhyphen"/>alt our ſelves or him? There be ſeverall Scriptures that ſhew how men exalted them<g ref="char:EOLhyphen"/>ſelves, as in <hi>Dan.</hi> 11.14. <hi>The robbers of Gods people are ſaid to exalt themſelves.</hi> So it is ſaid of <hi>Adonijah,</hi> That <hi>he exalted him<g ref="char:EOLhyphen"/>ſelfe,</hi> ſaying, <hi>I wil be King,</hi> 1 King. 1.5. Alſo <hi>Ephraim</hi>
+               <pb n="71" facs="tcp:169788:37"/>exalted himſelf, <hi>Hoſ.</hi> 13.1. And God complained by <hi>Hoſea,</hi> cha. 11. ver. 7. <hi>That none would exalt him.</hi> Now that I may a little diſcover this SELFE-EXAL<g ref="char:EOLhyphen"/>TATION (and the Lord diſ<g ref="char:EOLhyphen"/>cover it unto you, and the plagues of your owne hearts, from the higheſt to the low<g ref="char:EOLhyphen"/>eſt) This wicked Selfe comes to be Indited and Arraigned (before you this day) as an Enemy and Traytor to the Crowne, and dignity of Jeſus Chriſt, as a deſtroyer of Na<g ref="char:EOLhyphen"/>tions, and as a Murderer of Soules and Bodies; and as the univerſall Diſeaſe which hath infected all ſorts of men. For to finde out this Malefa<g ref="char:EOLhyphen"/>ctor it is needfull that we make ſtrict enquiry, &amp; ſearch, and for that end we wil begin at home, or with the Miniſters, who
+<pb n="72" facs="tcp:169788:38"/>(I feare) are not only poſſeſt with this enemy, but out of them it goes forth into all the Land, and from them it hath its originall and riſe; there<g ref="char:EOLhyphen"/>fore I thinke in my conſcience that we Miniſters are to con<g ref="char:EOLhyphen"/>feſſe this ſinne, and to take ſhame to our ſelves for it. And that we may doe ſo, let us con<g ref="char:EOLhyphen"/>ſider how we are guilty here<g ref="char:EOLhyphen"/>of, I ſhall hint out ſome parti<g ref="char:EOLhyphen"/>culars.</p>
+            <p n="1">1 We are guilty of Selfe, <hi>in our preaching,</hi> when wee preach our ſelves, and not Je<g ref="char:EOLhyphen"/>ſus Chriſt; contrary to the opinion and practice of the Apoſtle, who ſaith, <hi>We preach not our ſelves but Jeſus Chriſt the Lord,</hi> 2 Cor. 4.5.</p>
+            <p>Obj. <hi>But you will ſay, how, and when is that?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> When we preach hu<g ref="char:EOLhyphen"/>mane
+<pb n="73" facs="tcp:169788:38"/>Learning, or the wiſ<g ref="char:EOLhyphen"/>dome of the world in the ſtead and roome of the pure Goſpel and Word of Chriſt, or elſe when we mix and mingle both together, contrary to the Scriptures, which ſay,<note place="margin">1 Cor. 2.4.</note> 
+               <hi>That our preaching ſhould not be with en<g ref="char:EOLhyphen"/>ticing words of mans wiſdome, but in the demonſtration of the Spirit, and power.</hi> Or further, when our maine worke is to prepare a fine peece (as they call it) or a handſome quaint Sermon, or Oration, compoſed of Divi<g ref="char:EOLhyphen"/>nity, Hiſtory, ancient ſayings, and witty ſentences; and all theſe neatly compiled, and put together like a Poſie, and then delivered, and acted like a Play, then the bleſſed Word of God.</p>
+            <p>In the Primitive times, and for two or three hundred years
+<pb n="74" facs="tcp:169788:39"/>after Chriſt (as a learned and godly man obſerved) the Mini<g ref="char:EOLhyphen"/>ſters of the Goſpel ſpake as the Holy Ghoſt gave them utte<g ref="char:EOLhyphen"/>rance, but when Antichriſt be<g ref="char:EOLhyphen"/>gan to prevaile, that bleſſed, plaine, and ancient way of preaching was leſt and loſt, and ſince even till now men have made a meere trade of preaching, and its become the fruit of ſtudy, and brain-know<g ref="char:EOLhyphen"/>ledge, and the exerciſe of na<g ref="char:EOLhyphen"/>turall gifts and parts, rather then the breathings and teach<g ref="char:EOLhyphen"/>ings of Gods Spirit.</p>
+            <p n="2">2 Miniſters declare that they have much of Selfe, <hi>when they appropriate and aſſume to themſelves a power over the Saints and Churches of Chriſt,</hi> ſo as to give rules to them, and to im<g ref="char:EOLhyphen"/>poſe Lawes upon their Con<g ref="char:EOLhyphen"/>ſciences;<note place="margin">2 Cor. 1.24.</note> but <hi>Paul</hi> having a
+<pb n="75" facs="tcp:169788:39"/>more ſpeciall Call, profeſſed, <hi>That he had no dominion over the faith of the Saints,</hi> but was a conſtant helper of their faith and joy, but never exerciſed power but with the common conſent of the Church where he was.</p>
+            <p n="3">3 Selfe appeares much in ſome Miniſters <hi>by the contempt they ſhew to their brethren,</hi> who are younger then they, as e<g ref="char:EOLhyphen"/>ſteeming them younglings, and terming them upſtart boyes, that get up into Pulpits; But let theſe men conſider how un<g ref="char:EOLhyphen"/>like <hi>Moſes</hi> they are, who wiſhed <hi>that all the Lords people were Prophets.</hi> Secondly, let this be conſidered by them, that God hath not limited and con<g ref="char:EOLhyphen"/>fined his diſcoveries to old men, but as <hi>Elihu</hi> ſaid,<note place="margin">Job 31.8, 9</note> 
+               <hi>There is a ſpirit in man, and the inſpi<g ref="char:EOLhyphen"/>ration
+<pb n="76" facs="tcp:169788:40"/>of the Almighty giveth them underſtanding. Great men are not alwaies wiſe; neither doe the aged underſtand judgement.</hi>
+            </p>
+            <p>Thirdly, ſuch men were once young themſelves, and <hi>Paul</hi> commands that no man ſhould deſpiſe <hi>Timothies</hi> youth. Laſt<g ref="char:EOLhyphen"/>ly, young men have the pro<g ref="char:EOLhyphen"/>miſe of the Spirit as well as old men, <hi>Act.</hi> 2.17.</p>
+            <p>Fourthly,<note place="margin">Phil. 2, 21.</note> 
+               <hi>Miniſters</hi> (for the moſt part) <hi>ſeeke their owne things, and not the things of Jeſus Chriſt,</hi> as the Apoſtle complaines, and it may be ſaid as the Prophet ſaid,<note place="margin">Eſa. 56.11.</note> 
+               <hi>That every man lookes to his owne way, and for gaine from his owne quarter.</hi>
+            </p>
+            <p>Fifthly and laſtly, There is another roote of bitterneſte, and appearance of Selfe in the hearts of Miniſters (the Lord root it out) that we love men
+<pb n="77" facs="tcp:169788:40"/>more becauſe they are of our opinion, then becauſe they are Saints, and friends of Jeſus Chriſt. Hereupon we make opinion, and not union with Jeſus Chriſt (which ought to be the ground) of communi<g ref="char:EOLhyphen"/>on, and fellowſhip one with another. Having briefly ſhew<g ref="char:EOLhyphen"/>ed wherein Selfe appeares in Miniſters, I now ſhall humbly take leave to ſpeake to you who are Magiſtrates, whom God hath made honourable, and imployed in weighty and honourable undertakings. This Selfe, doubtleſſe is among you alſo; and if you would take the Candle of the Lord, and ſearch narrowly in your owne hearts, you might finde this enemy harbouring, and hiding himſelfe in your breaſts and boſomes. And for a
+<pb n="78" facs="tcp:169788:41"/>helpe herein conſider:</p>
+            <p n="1">1 <hi>That Selfe appeares in thoſe who deſire and endeavour to creep and get into places of Authority for their owne private intereſts, and gaine.</hi> They de<g ref="char:EOLhyphen"/>ſire their places more then they deſerve them, and they looke more after their places then their places want them. An example hereof you may finde in <hi>Abſolon,</hi> and in his words:<note place="margin">2 Sam. 15.4.</note> 
+               <hi>O that I were</hi> (ſaid he) <hi>made Judge in the Land, that any man which hath any ſuit or cauſe, might come unto me, and I would doe him juſtice.</hi> Ma<g ref="char:EOLhyphen"/>ny are like the bramble in <hi>Jo<g ref="char:EOLhyphen"/>thans</hi> Parable,<note place="margin">Judg. 9.15.</note> that would rule over the Trees of the Wood, but poore is the ſervice and ſhelter of a Bramble, fit only to ſtop a hole in a Hedge; no better are ſome, that ſeek (and
+<pb n="79" facs="tcp:169788:41"/>ſerve in) places of truſt. See whether any of you are guilty herein, or any of your Ser<g ref="char:EOLhyphen"/>vants, and under-officers; where-ever this is found it is abominable, and odious.</p>
+            <p n="2">2 Magiſtrates ſeeke them<g ref="char:EOLhyphen"/>ſelves, when they make the utmoſt advantage of their pla<g ref="char:EOLhyphen"/>ces, when they have got into them;<note place="margin">2 King. 5.21, 22. <hi>Eliſha</hi> pu<g ref="char:EOLhyphen"/>niſhed his Servant with the ſame plague (or Leprofie) which <hi>Naaman</hi> had, ver. 27. a juſt puniſh<g ref="char:EOLhyphen"/>ment.</note> as <hi>Gehazi</hi> the Servant of <hi>Eliſha,</hi> tooke advantage of getting for himſelf from <hi>Naa man,</hi> when his Maſter refuſed &amp; denied it. So the caſe may be with you, that though you your ſelves ſcorn, and deſpiſe bribes, and gifts, yet ſome of your Officers and Servants may take them; but if you doe ei<g ref="char:EOLhyphen"/>ther winke at, approve of, or let ſuch things goe unpuniſhed in them, God will impute the ſame to you as well as unto
+<pb n="80" facs="tcp:169788:42"/>them;<note place="margin">Neh. 5.15. Who can ſay there is not a lye in his right hand, Eſa. 44.10.</note> take therefore that bleſſed <hi>Nehemiah</hi> for your ex<g ref="char:EOLhyphen"/>ample, <hi>who would not ſuffer his Servants to beare rule over the people</hi> (as former Rulers did) <hi>becauſe of the feare of God.</hi>
+            </p>
+            <p n="3">3 This is a ſigne of much Selfe, when men will comply with Saints, and ſeeme to be religious out of policy to pro<g ref="char:EOLhyphen"/>cure a good name, and eſteeme among men; as it is ſaid in the eleventh of <hi>Daniel,</hi> the 34. verſ. <hi>That many ſhould cleave to the people of God by flatteries.</hi> A notable example hereof wee finde in <hi>Ezra,</hi> (the fourth Chapter, and the ſecond verſ.) of ſome that came unto <hi>Zerub<g ref="char:EOLhyphen"/>babel,</hi> and to the chiefe of the Fathers, and ſaid unto them; <hi>Let us build with you, for we ſeeke your God, as yee doe, &amp;c.</hi> But marke the anſwer; <hi>But</hi> Zerub<g ref="char:EOLhyphen"/>babel
+<pb n="81" facs="tcp:169788:42"/>
+               <hi>and</hi> Jeſhua, <hi>and the reſt of the cheife of the Fathers of</hi> Iſrael <hi>ſaid-unto them, you have nothing to doe with us, to build an houſe unto our God.</hi> As for ſuch po<g ref="char:EOLhyphen"/>lititians (that come in the even<g ref="char:EOLhyphen"/>ing of the day, and at the end of the worke for their owne ends) God will diſcover, and confound them, with their baſeneſſe and perfidiouſneſſe.</p>
+            <p n="4">4 Examine whether you keep, and detaine in your hands, that which is due unto others. I doe not ſpeake this in way of reflection, or reprehenſion, but in way of caution, and ex<g ref="char:EOLhyphen"/>amination, therefore I beſeech you look into your own hearts and ſee whether it be ſo or no with you; for as you have ma<g ref="char:EOLhyphen"/>ny opportunities to inrich your ſelves, in theſe dayes, ſo you will not want temptations to
+<pb n="82" facs="tcp:169788:43"/>improve them for your owne advantage: but obſerve this that of all times, this is not a time to be building our own neſts, for either ſhortly we are like to have enough, or none at all; and honeſt men ſhall either ſhare all, or be no ſharers at all: but I do not fear the lat<g ref="char:EOLhyphen"/>ter.</p>
+            <p>Fiftly and laſtly, men do ex<g ref="char:EOLhyphen"/>alt themſelves, when they do oppoſe the glory of God, and the publique good, for their own private,<note place="margin">Act. 19.24, 25.</note> and perſonall in<g ref="char:EOLhyphen"/>tereſts; and of this ſort there is not a few, who like <hi>Demetrius</hi> and his fellow Tradeſmen, cry out that their Trade and Pro<g ref="char:EOLhyphen"/>feſſion is gone, if ſuch things ſhall be tolerated, and ſuch and ſuch Acts paſſed. But wo<g ref="char:EOLhyphen"/>full is that Profeſſion, or occu<g ref="char:EOLhyphen"/>pation that is maintained by
+<pb n="83" facs="tcp:169788:43"/>the corruptions of the peo<g ref="char:EOLhyphen"/>ple.</p>
+            <p>Having put Magiſtrates, and Miniſters upon ſelfe-examina<g ref="char:EOLhyphen"/>tion, let us now come to ſpeake a word to the common ſort of people. Nay, what I ſhal fur<g ref="char:EOLhyphen"/>ther ſpeake in this Uſe con<g ref="char:EOLhyphen"/>cerns all. Conſider then,</p>
+            <p n="1">1 Whether you do prefer your owne righteouſneſſe be<g ref="char:EOLhyphen"/>fore the righteouſneſſe of Je<g ref="char:EOLhyphen"/>ſus Chriſt; for of all <hi>Selfes,</hi> this is the moſt dangerous, and that rocke which moſt men ſplit, and undoe their ſoules at. This was that which did undo the people of <hi>Iſrael</hi> of old,<note place="margin">Ro. 9.31, 32.</note> and this is that which is like to be the bane of many profeſſors; Oh! therefore I beſeech you conſider the impurity, imper<g ref="char:EOLhyphen"/>fection, and inſufficiency, of your own righteouſueſſe to ju<g ref="char:EOLhyphen"/>ſtifie,
+<pb n="84" facs="tcp:169788:44"/>or ſave you, and looke upon that, free and full righte<g ref="char:EOLhyphen"/>ouſneſſe of Jeſus Chriſt, and exalt it by beleeving on it, And ſubmitting to it.</p>
+            <p n="2">2 Examine your ſelves whe<g ref="char:EOLhyphen"/>ther you doe preferre <hi>Chriſts will or your own wills.</hi> Oh how eager are many in theſe dayes, for things that are not in the Scriptures, and to ſet up <hi>Inſtitu<g ref="char:EOLhyphen"/>tions</hi> which Chriſt hath not ap<g ref="char:EOLhyphen"/>pointed: Aske what is the wil of God, and then what reaſon you have to obey it? Gods will carries reaſon with it, why it ſhould be obeyed, for it is good, becauſe God com<g ref="char:EOLhyphen"/>mands it, Oh ſay then as Chriſt ſaid, <hi>not my wil but thine be done,</hi> and as <hi>Paul,</hi> Lord <hi>what wilt thou have me to do?</hi> Thus much for the ſecond Uſe.<note place="margin">Uſe 3.</note>
+            </p>
+            <p>The third Uſe is an uſe of
+<pb n="85" facs="tcp:169788:44"/>Incouragement to althoſe that endeavor to exalt Jeſus Chriſt: more particularly to you that are in Authority, who may ſay (as <hi>Samuel</hi>) <hi>hitherto hath the Lord helped us:</hi>
+               <note place="margin">1 Sam. 7.12.</note> and with <hi>David,</hi>
+               <note place="margin">2 Sam. 7.18</note> 
+               <hi>Oh Lord God what is my houſe that thou haſt brought me hitherto?</hi> You may call <hi>England</hi> Jeho<g ref="char:EOLhyphen"/>vah ſhammah (as the Church in <hi>Ezekiel</hi> the laſt verſe) the Lord is there. Hee that will rightly and impartially looke, may ſee that the Lord is not yet departed, and ſo long as he abides among a people there is no fear, but great hopes (not<g ref="char:EOLhyphen"/>withſtanding the greatneſle of their ſins) that hee will proſ<g ref="char:EOLhyphen"/>per and carry on his own work in their hands.</p>
+            <p>Object: <hi>But you will ſay, How ſhall we know that the Lord is yet with us, and not departed from us.</hi>
+            </p>
+            <p>
+               <pb n="86" facs="tcp:169788:45"/>
+               <hi>Anſw.</hi> Among many other ſignes of the Lords preſence, with you, Conſider theſe few.</p>
+            <p n="1">1 That you yet doe thoſe things which are for his glory, your late actions, and your ve<g ref="char:EOLhyphen"/>ry late Acts teſtifie this, howe<g ref="char:EOLhyphen"/>ver prejudiced and diſconten<g ref="char:EOLhyphen"/>ted men, would make thoſe things your ſins, which God (I beleeve) accounts and ap<g ref="char:EOLhyphen"/>proves of, as acceptable ſervices done for his glory.</p>
+            <p n="2">2 Surely God is with you, for his people are with you; You have all or moſt of the Congregations of Saints in the Nation with you, and for you. And note this that whenſoe<g ref="char:EOLhyphen"/>ver God doth depart from any Authority, Power, or Peo<g ref="char:EOLhyphen"/>ple, God doth firſt take away the hearts of his people from
+<pb n="87" facs="tcp:169788:45"/>them, that they neither ap<g ref="char:EOLhyphen"/>prove of them, joyn with them, nor pray for them: This we find in <hi>Samuel,</hi> who left <hi>Saul. and came no more to ſee him,</hi>
+               <note place="margin">1 Sam. 14.35.</note> and what followed? within a ve<g ref="char:EOLhyphen"/>ry little time after,<note place="margin">1 Sam. 28.16.</note> 
+               <hi>the Lord alſo departed from</hi> Saul <hi>and became his enemy.</hi> I hope I may ſay of you, as it was ſaid of Ju<g ref="char:EOLhyphen"/>dah,<note place="margin">Hoſ. 11.12</note> 
+               <hi>That you yet rule with God, and are faithfull to the Saints.</hi>
+            </p>
+            <p n="3">3 This is a ſigne that God is with you, that the Lord puts a ſpirit of zeal in ſome of you for a perfect Reformation; and alſo a ſpirit of aſſurance, that God will carrie on the Worke of your hands.</p>
+            <p n="4">4 The concurrence of Gods Providence in effecting thoſe great things which you have undertaken, both in this land and in <hi>Ireland,</hi> doth beſpeake
+<pb n="88" facs="tcp:169788:46"/>the Lord to be with you. The heavens ſmile, and the earth laughs and rejoyces at the ex<g ref="char:EOLhyphen"/>ecution of Juſtice, yea, ſome do obſerve that the Lord hath ſhewed himſelf more gracious to this land in externals, ſince you have appeared and acted for him of late ſo impartiallie and couragiouſly: however ſome (as the Prophet ſpeaks) <hi>will not ſee the hand of the Lord that is ſo evidently lifted up.</hi>
+               <note place="margin">Eſa. 62.11</note>
+            </p>
+            <p n="5">5 And laſtly, This is a ſure ſign that the Lord is yet with you, becauſe you have decree<g ref="char:EOLhyphen"/>ed and don nothing againſt the Saints of God, nor impoſed a<g ref="char:EOLhyphen"/>ny thing upon their conſcien<g ref="char:EOLhyphen"/>ces, though you have beene frequentlie moved thereto. Remember ſtil thoſe many Ser<g ref="char:EOLhyphen"/>mons that you have had to ſtir you up to be kind to the Lords
+<pb n="89" facs="tcp:169788:46"/>little ones; they are (as you once excellently heard, the in<g ref="char:EOLhyphen"/>tereſt of Nations) and God wil deale well or ill with you, as you favor them, or frown upon them, therefore look upon the Saints next Chriſt, as your ſafeſt and ſtrongeſt ſanctuarie. Give me leave I beſeech you, to put you in mind to be tender alſo to ſome tender conſciences, who peradventure cannot ſub<g ref="char:EOLhyphen"/>ſcribe and ſubmit to your pow<g ref="char:EOLhyphen"/>er and authoritie, favor them, and be not provoked againſt them, though ſome would ſtir you up thereto, who perad<g ref="char:EOLhyphen"/>venture have no other ends but to weaken your hands, and to make you more odious to the people.</p>
+            <p>Object. <hi>But ſome will ſay, though God hath been hitherto with us, and yet abides amongſt us,
+<pb n="90" facs="tcp:169788:47"/>yet we have many grounds to fear that the Lord may leave us, and that there wil be a ſtop in the work now in our hands.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Sure the Lord hath not put you upon a worke that hee means to lay aſide, for it is tem<g ref="char:EOLhyphen"/>ple-worke, and ſuch a Temple-work as hath not bin underta<g ref="char:EOLhyphen"/>ken by any before. The work you are upon tends to ſet up Jeſus Chriſt, &amp; to pul down An<g ref="char:EOLhyphen"/>tichriſt, fear not therefore, but go on for the Lord wil proſper you.</p>
+            <p>Obj. <hi>But peradventure ſome o<g ref="char:EOLhyphen"/>thers wil ſay, ſin remains ſtil among us, and God is provoked now as much as ever, how then can the work go on?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> God ſometimes takes occaſions from the ſins of men to ſhew mercie to them, and to ſpare them. I have time onely
+<pb n="91" facs="tcp:169788:47"/>to name you a few places, <hi>Gen.</hi> 8.21. <hi>Eſa.</hi> 57.17. <hi>Hoſ.</hi> 2.13, 14. <hi>Joh.</hi> 20.25.</p>
+            <p>Obj. <hi>But that which doth moſt trouble us herein is, to know whe<g ref="char:EOLhyphen"/>ther the witneſſes be ſlaine yea, or no?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> 1. Suppoſe the witneſ<g ref="char:EOLhyphen"/>ſes were not ſlaine, yet it is an honor to be a witnes to Chriſt, and to ſuffer Martyrdome for his ſake, and in his cauſe.</p>
+            <p n="2">2 If they be not ſlaine, yet the time of their ſlaying and being dead is but ſhort; but,</p>
+            <p n="3">3 It is more then probable, (yea I am very confident) that they are ſlaine, and have been a ſlaying all the time and reigne of Antichriſt; now Chriſt begins to take his great power, and to reigne, and now the Judgement is ſet, and po<g ref="char:EOLhyphen"/>wer put into the hands of the
+<pb n="92" facs="tcp:169788:48"/>Saints, and one of the ten Hornes is cut off, and never to be put on againe; yea this yeare, 1650. that is comming, (according to the interpreta<g ref="char:EOLhyphen"/>tion of many, yea moſt godly Writers upon <hi>Daniel,</hi> and the <hi>Revelation</hi>) is to be the Saints yeare of Jubilee; and though it be alſo at <hi>Rome</hi> a Jubilee this yeare, (when they are at the height of their pleaſure and pride) yet ere long God will viſite them to ſome pur<g ref="char:EOLhyphen"/>poſe; therefore up in belee<g ref="char:EOLhyphen"/>ving, and be doing, for your Lord is with you. I have three things to exhort you to in three words, and the rather let me minde you herein, be<g ref="char:EOLhyphen"/>cauſe God hath ſo proſpered and bleſſed you in your Coun<g ref="char:EOLhyphen"/>ſells and Armies, and ſet you up over your enemies:</p>
+            <p n="1">
+               <pb n="93" facs="tcp:169788:48"/>
+1 Decree nothing that is unjuſt;<note place="margin">Eſa. 10.1.</note> 
+               <hi>There is a woe pronoun<g ref="char:EOLhyphen"/>ced againſt thoſe that decree un<g ref="char:EOLhyphen"/>righteous decrees, and that write grievouſneſſe, which they have preſcribed.</hi> The Lord keepe us from ſinning by a Law, though we through weakneſſe do daily ſin againſt a Law.</p>
+            <p n="2">2 The ſecond thing I would minde you of, and ſtirre you up to, is the removing of all ſuch things as are yet offenſive to religious people, particularly ſuch Laws as continue in force againſt them, and all ſuperſti<g ref="char:EOLhyphen"/>tious Relicks, which keep the people ſtill in blindneſſe.</p>
+            <p n="3">3 Doe what you can to ſa<g ref="char:EOLhyphen"/>tisfie the deſires of thoſe that are diſtreſſed; as (1) Thoſe that ſuffered for, and in the Lords Cauſe, to whom you have given promiſes, engage<g ref="char:EOLhyphen"/>ments,
+<pb n="94" facs="tcp:169788:49"/>and encouragements of releefe, and redreſſe. (2) Think upon poore Priſoners, whom you have partly releeved al<g ref="char:EOLhyphen"/>ready, but they complaine that the remedy is yet too ſhort and inſufficient to heale the diſeaſe, (as this day I have been deſired by Letters from ſeverall of them) to move you in. (3) The poore of the Na<g ref="char:EOLhyphen"/>tion (called Beggers) are to be thought of, and not to be ſuf<g ref="char:EOLhyphen"/>fered (to the diſhonour of God, and the ſhame of the Na<g ref="char:EOLhyphen"/>tion) to be out of a calling, and imployment, and many to ſtarve and periſh; remove alſo what oppreſſions and burdens you can from the necks of the people of the Land, remem<g ref="char:EOLhyphen"/>bring and conſidering that text in the third of <hi>Eſaiah</hi> the fif<g ref="char:EOLhyphen"/>teenth verſe.</p>
+            <p>
+               <pb n="95" facs="tcp:169788:49"/>
+I crave leave for one word more,<note place="margin">Laſt uſe.</note> and it is to ſtirre you up to thankfulneſſe. This day might have beene a day of praiſe as well as of prayer, for God hath given all of us cauſe of rejoycing, and thankful<g ref="char:EOLhyphen"/>neſſe; you that are in Autho<g ref="char:EOLhyphen"/>rity bleſſe the name of the Lord, that he hath not ſuffe<g ref="char:EOLhyphen"/>red you to be broken in peeces, praiſe him; O praiſe him that he hath honoured, preſerved, and proſpered you ſo much. Alſo let the Miniſters bleſſe the Lord, that there is liber<g ref="char:EOLhyphen"/>ty, and a doore open for them to preach the Goſpel, yea let all people bleſſe the Lord, that they have a breathing and re<g ref="char:EOLhyphen"/>freſhing time; a time of peace, a time of plenty, a time of Chriſtian Liberty to profeſſe Chriſt, and to worſhip him
+<pb n="96" facs="tcp:169788:50"/>according to rule and Conſci<g ref="char:EOLhyphen"/>ence; above all let us praiſe God that Chriſt is exalted: Alſo let us bleſſe God for <hi>Ire<g ref="char:EOLhyphen"/>land</hi> (yea poor <hi>Wales</hi>) that thoſe people that were ſo contemp<g ref="char:EOLhyphen"/>tible, are like to have the grea<g ref="char:EOLhyphen"/>teſt preſence of God amongſt them. I have done, only I ſhall pray that the Lord would make you as <hi>Ezra,</hi> a helper; as <hi>Nehemiah,</hi> the conſolation of God; as <hi>Zerubbabel,</hi> an oppoſer of <hi>Babylon;</hi> &amp; as <hi>Eliakim,</hi> fathers to the people of this Nation; I doubt not but this Generation, and the Ages and Generations to come, will (as they have cauſe) bleſſe God for you, and the things done by you in theſe dayes.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:169788:50"/>
+         </div>
+      </body>
+   </text>
+</TEI>
